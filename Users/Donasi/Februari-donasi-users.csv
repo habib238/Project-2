@@ -1,0 +1,841 @@
+"ID","name","platform","judul","tanggal","total_donasi","status","metode_pembayaran"
+29185,Alif Setyo Pambudi,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-01 05:05:30",50000.0,settlement,echannel
+29187,Mita Septiani,PWA,Infaq Sedekah,"2021-02-01 05:23:02",10000.0,COMPLETED,OVO
+29188,Ari,Android,Pray&Donasi untuk Garut&Tasikmalaya #KorbanBencanaBanjirBandangLongsor,"2021-02-01 05:24:34",10000.0,settlement,bank_transfer
+29189,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-01 05:28:43",100000.0,settlement,bank_transfer
+29190,Yogi Hidayat,Web,Berkah Dengan Sedekah,"2021-02-01 05:35:04",100000.0,settlement,echannel
+29191,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-01 05:40:40",5000.0,SUCCESS_COMPLETED,LINKAJA
+29192,Benny Pratama,PWA,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-02-01 06:54:59",2000.0,COMPLETED,OVO
+29194,Hamba Allah,PWA,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-01 08:31:57",100000.0,settlement,echannel
+29195,Eko Santoso,Android,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-02-01 08:48:27",4800.0,SUCCESS_COMPLETED,LINKAJA
+29196,Ruby Ahmady,PWA,PANTI ASUHAN YATIM DAN DHUAFA CIBUBUR,"2021-02-01 09:11:53",50000.0,settlement,echannel
+29197,Bayu Wahyudi,WEB,Infaq Sedekah,"2021-02-01 09:12:00",500000.0,settlement,BCA Yayasan Mizan Amanah
+29198,Dicky Ardian,PWA,Infaq Sedekah,"2021-02-01 09:14:16",200000.0,settlement,bank_transfer
+29211,Rendra,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-01 10:38:01",10000.0,settlement,bank_transfer
+29212,Marisa adlina,WEB,Infaq Sedekah,"2021-02-01 10:38:40",50000.0,settlement,BCA Yayasan Mizan Amanah
+29213,Marisa adlina,WEB,Infaq Sedekah,"2021-02-01 10:38:41",50000.0,settlement,BCA Yayasan Mizan Amanah
+29214,Marisa adlina,WEB,Infaq Sedekah,"2021-02-01 10:38:41",50000.0,settlement,BCA Yayasan Mizan Amanah
+29215,mohammad afif rachamtulloh,Android,Zakat Profesi,"2021-02-01 10:50:58",350000.0,settlement,echannel
+29216,aulia,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-01 11:03:55",100000.0,COMPLETED,OVO
+29219,atin widaningsih,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-01 11:13:04",50000.0,settlement,gopay
+29221,navindanurqistia,PWA,Infaq Sedekah,"2021-02-01 11:33:01",50000.0,settlement,gopay
+29222,Mahya,Android,PANTI ASUHAN YATIM DAN DHUAFA YOGYAKARTA,"2021-02-01 11:48:34",200000.0,settlement,echannel
+29223,Veny Febriani,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-01 12:03:35",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+29224,Indra gunawan,WEB,Infaq Anak Yatim,"2021-02-01 12:12:28",250000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+29228,Asti,PWA,Zakat Barang Temuan,"2021-02-01 14:02:14",5000.0,PAID,DANA
+29229,Asti,PWA,Zakat Emas Perak dan Uang,"2021-02-01 14:02:39",5000.0,PAID,DANA
+29230,Asti,PWA,Zakat Perniagaan,"2021-02-01 14:03:02",5000.0,PAID,DANA
+29232,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-02-01 14:03:27",5000.0,PAID,DANA
+29233,Asti,PWA,Zakat Akhir Tahun,"2021-02-01 14:03:47",5000.0,PAID,DANA
+29235,Asti,PWA,Konser Amal Virtual #JadiPahlawan 2020,"2021-02-01 14:04:39",5000.0,PAID,DANA
+29236,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-01 14:05:07",5000.0,PAID,DANA
+29237,Asti,PWA,Nazar,"2021-02-01 14:05:33",5000.0,PAID,DANA
+29238,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-01 14:05:57",5000.0,PAID,DANA
+29239,Asti,PWA,Berkah Dengan Sedekah,"2021-02-01 14:06:24",5000.0,PAID,DANA
+29240,Asti,PWA,Infaq Sedekah,"2021-02-01 14:06:49",5000.0,PAID,DANA
+29241,Santi Dyah Ikasari,WEB,Infaq Sedekah,"2021-02-01 14:45:16",200000.0,settlement,Muamalat Yayasan Mizan Amanah
+29246,Alvandha Adindra,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-01 15:55:21",50000.0,settlement,bank_transfer
+29249,yayan heriyana,WEB,Infaq Sedekah,"2021-02-01 16:04:49",200000.0,settlement,BCA Yayasan Mizan Amanah
+29250,Muhammad Husen,WEB,Infaq Sedekah,"2021-02-01 16:09:07",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+29252,Samsiati,PWA,PANTI ASUHAN YATIM DAN DHUAFA KALISARI,"2021-02-01 16:57:00",150188.0,settlement,Transfer Bank Mandiri - 1320505050535
+29253,Lis Purwandi,PWA,"Bantu Berikan Hunian Layak Untuk Pak Ozak di Usia Tuanya, Ia Tinggal di Saung Reyot Pinggir Kali","2021-02-01 17:47:48",100000.0,settlement,bank_transfer
+29255,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-01 19:17:49",2000.0,COMPLETED,OVO
+29256,Fiona Latisya,Android,Berkah Dengan Sedekah,"2021-02-01 20:09:35",10000.0,settlement,echannel
+29261,Nurdianah,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-01 21:18:46",50000.0,settlement,bank_transfer
+29262,Nasyeilla Adelia,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-01 22:48:21",100000.0,settlement,bank_transfer
+29263,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-01 23:59:18",10000.0,settlement,bank_transfer
+29264,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-02 04:34:51",5000.0,SUCCESS_COMPLETED,LINKAJA
+29269,Redo,PWA,Berkah Dengan Sedekah,"2021-02-02 04:42:07",13000.0,settlement,gopay
+29271,Mita Septiani,PWA,Infaq Sedekah,"2021-02-02 05:07:22",10000.0,settlement,gopay
+29272,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-02 05:08:25",100000.0,settlement,bank_transfer
+29273,Gandira,Web,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-02-02 06:03:42",250000.0,settlement,echannel
+29278,Okmadanti Citrasari,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 09:06:59",200000.0,settlement,bank_transfer
+29279,Aang,WEB,Infaq Sedekah,"2021-02-02 09:23:32",200000.0,settlement,BCA Yayasan Mizan Amanah
+29290,Tika Nurlaela,Android,Zakat Profesi,"2021-02-02 10:12:29",125000.0,settlement,bank_transfer
+29291,Guntur Mahardika,Android,Zakat Profesi,"2021-02-02 10:16:02",100000.0,settlement,echannel
+29294,Suci rifani,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 10:37:20",100000.0,settlement,bank_transfer
+29295,Hendra dan Indah,WEB,Infaq Sedekah,"2021-02-02 10:39:52",150000.0,settlement,BCA Yayasan Mizan Amanah
+29296,yenny,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 10:44:45",100000.0,settlement,echannel
+29303,Aprilia Susi Iswarani,Android,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 11:03:08",100384.0,settlement,Transfer Bank Mandiri - 1320505050535
+29304,Rico,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 11:03:11",25000.0,settlement,bank_transfer
+29305,MINHAZUL ABIDIN,Android,Berkah Dengan Sedekah,"2021-02-02 11:03:22",150000.0,settlement,echannel
+29319,Athaya,PWA,Infaq Sedekah,"2021-02-02 11:33:41",100000.0,settlement,bank_transfer
+29330,Rahmat hidayat,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 11:52:45",100000.0,SUCCESS_COMPLETED,LINKAJA
+29332,Benny Pratama,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-02 12:36:26",2000.0,COMPLETED,OVO
+29342,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 13:21:22",4.0,COMPLETED,OVO
+29350,Putu Berly Calvina Izumi,PWA,Berkah Dengan Sedekah,"2021-02-02 13:51:12",100000.0,settlement,bank_transfer
+29352,Febrianto,WEB,Infaq Sedekah,"2021-02-02 13:53:04",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+29353,Putu Berly Calvina Izumi,PWA,Infaq Sedekah,"2021-02-02 13:55:08",50000.0,settlement,bank_transfer
+29354,raga bagus prakoso,WEB,Infaq Sedekah,"2021-02-02 13:55:37",100000.0,settlement,BCA Yayasan Mizan Amanah
+29359,Eka Ayu Lestari,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-02 14:15:14",100000.0,settlement,bank_transfer
+29363,deden wahrida,WEB,Infaq Sedekah,"2021-02-02 14:33:10",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+29375,Teungku A.R. Hanafiah,WEB,Infaq Sedekah,"2021-02-02 16:15:03",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+29376,Novanda Perdana Sapu,WEB,Infaq Sedekah,"2021-02-02 16:22:06",150000.0,settlement,Mandiri Yayasan Mizan Amanah
+29382,Teungku A.R. Hanafiah,WEB,Infaq Sedekah,"2021-02-02 16:46:05",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+29393,M Nur Ikhsan,Web,Infaq Sedekah,"2021-02-02 18:04:13",100000.0,settlement,bank_transfer
+29394,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-02 19:23:20",1000.0,COMPLETED,OVO
+29396,alipp,Web,"Bantu Kang Uwes Mandiri, Kehilangan Kedua Kakinya Saat Bekerja","2021-02-02 20:53:29",1.0,PAID,DANA
+29401,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-03 00:48:09",10000.0,settlement,bank_transfer
+29404,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI 2,"2021-02-03 04:54:33",100000.0,settlement,bank_transfer
+29405,Ari,Android,"14 Rumah Rata dan 34 Rusak Parah, Yuk Bantu Bangun Rumah Korban Banjir Bandang Sukabumi","2021-02-03 05:00:47",10000.0,settlement,bank_transfer
+29406,Mita Septiani,PWA,Infaq Sedekah,"2021-02-03 05:11:17",10000.0,settlement,gopay
+29407,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-03 05:27:19",100000.0,settlement,bank_transfer
+29408,Titien,PWA,Infaq Sedekah,"2021-02-03 05:27:24",10000.0,settlement,bank_transfer
+29409,Puteri novita,PWA,Infaq Sedekah,"2021-02-03 06:20:32",10000.0,settlement,bank_transfer
+29410,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-03 06:41:13",5000.0,SUCCESS_COMPLETED,LINKAJA
+29411,Muhamad Fahmi Aulia,Android,Bantu Raih Cita-Cita Susi dari Pedagang Keliling Menjadi Hafidzh Qur’an,"2021-02-03 06:54:59",10000.0,settlement,bank_transfer
+29413,Suyitnobinsuparinsuyono,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-03 08:15:41",100000.0,settlement,bank_transfer
+29414,Moch Deny Purnama,Android,PANTI ASUHAN YATIM DAN DHUAFA JAGAKARSA,"2021-02-03 08:21:45",100000.0,settlement,bank_transfer
+29415,Ade tenten,WEB,Infaq Sedekah,"2021-02-03 08:47:20",200000.0,settlement,BCA Yayasan Mizan Amanah
+29416,Siti julaeha,PWA,Infaq Sedekah,"2021-02-03 08:54:43",50000.0,settlement,echannel
+29417,Pak Saeful Rokhman,WEB,Infaq Sedekah,"2021-02-03 09:07:45",200000.0,settlement,BCA Yayasan Mizan Amanah
+29418,Hendra dan Indah,WEB,Infaq Sedekah,"2021-02-03 09:17:53",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+29419,Sanggih saputri meiyani,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-03 09:56:29",10000.0,settlement,bank_transfer
+29429,RINI,PWA,PANTI YATIM DAN DHUAFA KEMANDORAN,"2021-02-03 10:47:09",250000.0,settlement,bank_transfer
+29431,Abdul Haris,WEB,Infaq Sedekah,"2021-02-03 11:15:51",100000.0,settlement,BCA Yayasan Mizan Amanah
+29432,Indah Sukmawati,WEB,Infaq Sedekah,"2021-02-03 12:06:28",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+29436,F Dzulkarnaen,WEB,Infaq Sedekah,"2021-02-03 12:51:51",250000.0,settlement,BCA Yayasan Mizan Amanah
+29437,Irvan Firmansyah,PWA,Zakat Profesi,"2021-02-03 12:54:49",150000.0,settlement,bank_transfer
+29439,akbarwidias,Android,PANTI ASUHAN YATIM DAN DHUAFA SARIJADI BANDUNG,"2021-02-03 13:43:21",100000.0,settlement,bank_transfer
+29441,Dimas,PWA,Berkah Dengan Sedekah,"2021-02-03 14:36:29",100000.0,settlement,bank_transfer
+29443,Andi Murdiyansyah,PWA,Zakat Profesi,"2021-02-03 14:42:12",162500.0,settlement,bank_transfer
+29445,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-03 15:32:04",4.0,PAID,DANA
+29446,Endorse Marketing,Web,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-03 15:36:16",4.0,COMPLETED,OVO
+29449,Endorse Marketing,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-03 16:15:25",3.0,settlement,gopay
+29450,Endorse Marketing,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-03 16:17:13",3.0,COMPLETED,OVO
+29452,Endorse Marketing,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-03 16:19:35",2.0,PAID,DANA
+29454,Mizan Amanah,PWA,PANTI ASUHAN YATIM DAN DHUAFA CIPAYUNG,"2021-02-03 17:29:07",200000.0,settlement,bank_transfer
+29456,Namira Audrey Hanifah,Web,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-03 18:00:01",100479.0,settlement,Transfer Bank Mandiri - 1320505050535
+29457,wawan mochamad sofwan,Android,Zakat Profesi,"2021-02-03 18:41:43",200000.0,settlement,bank_transfer
+29458,wawan mochamad sofwan,Android,"100 Toren untuk Pesantren, Masjid, dan Mushola di Indonesia","2021-02-03 18:44:25",200000.0,settlement,bank_transfer
+29460,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-03 19:23:50",1000.0,COMPLETED,OVO
+29461,Maya,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-03 21:05:30",150000.0,settlement,bank_transfer
+29486,Developer,PWA,Infaq Sedekah,"2021-02-04 01:57:06",1.0,COMPLETED,OVO
+29492,Mita Septiani,PWA,Infaq Sedekah,"2021-02-04 04:59:26",10000.0,settlement,gopay
+29493,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 05:07:52",10000.0,settlement,bank_transfer
+29494,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-04 05:10:43",5000.0,SUCCESS_COMPLETED,LINKAJA
+29496,Sanggih saputri meiyani,PWA,Sedekah Bantu Lansia Dhuafa Jalani Sisa Hidup Yang Layak,"2021-02-04 05:18:30",10000.0,settlement,bank_transfer
+29497,okk,PWA,Bantu Hafidz Raih Impiannya Menjadi Pahlawan dan Penghafal Qur'an,"2021-02-04 05:22:45",100000.0,settlement,bank_transfer
+29498,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-04 05:33:55",10000.0,COMPLETED,OVO
+29499,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-02-04 05:34:19",100000.0,settlement,bank_transfer
+29504,Alif Setyo Pambudi,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-04 05:58:55",50000.0,settlement,echannel
+29505,Puteri novita,PWA,Infaq Sedekah,"2021-02-04 05:59:59",5000.0,settlement,gopay
+29506,DEVINA UTAMI,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 06:05:58",100000.0,settlement,bank_transfer
+29507,DEVINA UTAMI,PWA,BANTU BEBASKAN PANTI ASUHAN YATIM DAN DHUAFA,"2021-02-04 06:10:32",100000.0,settlement,bank_transfer
+29508,Afif Maulana,PWA,"Menderita Sakit Kista dan Radang Otak, 19 Tahun Tak Berdaya, Asep Butuh Biaya Berobat","2021-02-04 06:13:57",50000.0,settlement,bank_transfer
+29510,Sri Haryati,WEB,Infaq Sedekah,"2021-02-04 08:35:53",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+29511,Krisna Indriyarti,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 08:43:56",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+29514,septia,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 09:41:11",20000.0,settlement,bank_transfer
+29515,Tarik Rohman,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 09:42:00",100000.0,settlement,bank_transfer
+29516,M Hervan Ramadhan,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 09:51:09",100000.0,settlement,echannel
+29518,Hamba Allah,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 09:57:56",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+29519,BU PENI H,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 10:00:03",150000.0,settlement,Mandiri Yayasan Mizan Amanah
+29520,Fatimah,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 10:16:00",100000.0,settlement,bank_transfer
+29526,Hayyuni,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 10:42:10",50000.0,settlement,bank_transfer
+29527,Susaptomo,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 10:46:25",100000.0,settlement,gopay
+29528,Fatmawati,PWA,Infaq Sedekah,"2021-02-04 10:49:27",300000.0,settlement,bank_transfer
+29541,Hendra/rya,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 11:04:50",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+29546,Rizki Imanda Kitri,WEB,Infaq Sedekah,"2021-02-04 11:15:25",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+29552,Deasy Anggriani,WEB,Infaq Sedekah,"2021-02-04 11:30:14",500000.0,settlement,BNI Yayasan Mizan Amanah
+29553,Muhammad Choirul Sadha,Web,PANTI ASUHAN YATIM DAN DHUAFA DUREN SAWIT,"2021-02-04 11:54:05",50000.0,COMPLETED,OVO
+29554,Dani Rosmayadi,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 12:02:09",100000.0,settlement,bank_transfer
+29558,Hendrik Agung Wijaya,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 14:40:20",1000406.0,settlement,Transfer Bank Mandiri - 1320505050535
+29559,Arief Muhamad Noor,Web,PATUNGAN RUMAH UNTUK ANAK-ANAK YATIM,"2021-02-04 14:49:00",50000.0,settlement,bank_transfer
+29566,Barru Kurniawan,Android,PANTI ASUHAN YATIM DAN DHUAFA RAWA LUMBU BEKASI,"2021-02-04 14:58:01",500000.0,settlement,echannel
+29568,Adabella,PWA,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-04 14:58:53",100000.0,SUCCESS_COMPLETED,LINKAJA
+29570,Lailani Ahmad Andad,PWA,Zakat Akhir Tahun,"2021-02-04 15:02:21",500000.0,settlement,bank_transfer
+29571,Developer,Web,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-04 15:17:01",1.0,COMPLETED,OVO
+29575,Fadli Rizki Arisaand,WEB,Infaq Sedekah,"2021-02-04 15:41:21",500000.0,settlement,BRI Yayasan Mizan Amanah
+29580,Gumilang Wicaksono,Android,Berkah Dengan Sedekah,"2021-02-04 16:02:55",100000.0,settlement,bank_transfer
+29584,Ispriwiati Fatma,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 16:15:38",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+29585,Ispriwiati Fatma,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 16:15:49",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+29590,Liswanto,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 16:58:59",100000.0,settlement,echannel
+29594,probo yudha asmara,Android,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-02-04 17:29:07",100000.0,COMPLETED,OVO
+29596,Ban,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 18:05:09",200000.0,settlement,bank_transfer
+29598,Lily Indriya Hakim,Android,Zakat Perniagaan,"2021-02-04 18:10:38",702838.0,settlement,bank_transfer
+29601,Tika,Android,Zakat Profesi,"2021-02-04 19:58:06",100000.0,PAID,DANA
+29602,Finoria Kurniawati,Android,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-04 20:26:00",90000.0,settlement,bank_transfer
+29603,Fiona Latisya,Android,Berkah Dengan Sedekah,"2021-02-04 20:26:08",20000.0,settlement,echannel
+29604,Oscar Baadilla,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-04 20:36:22",100000.0,settlement,bank_transfer
+29608,Anton S,Android,PANTI ASUHAN YATIM DAN DHUAFA CIBADAK BOGOR,"2021-02-04 21:48:24",100000.0,settlement,bank_transfer
+29609,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-04 23:20:37",10000.0,settlement,bank_transfer
+29611,Dedy Zamhari Tanof,PWA,Zakat Profesi,"2021-02-05 01:18:06",300000.0,settlement,bank_transfer
+29618,Developer,PWA,Infaq Sedekah,"2021-02-05 05:17:20",1.0,COMPLETED,OVO
+29621,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-05 05:23:32",100000.0,settlement,bank_transfer
+29622,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-02-05 05:25:52",150000.0,settlement,bank_transfer
+29624,Asep,PWA,Infaq Sedekah,"2021-02-05 05:41:32",150000.0,settlement,bank_transfer
+29633,Ruhendi Tirta Kusumah,Android,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 05:59:41",100591.0,settlement,Transfer Bank Mandiri - 1320505050535
+29635,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-05 06:01:53",5000.0,SUCCESS_COMPLETED,LINKAJA
+29636,muslim,Android,Berkah Dengan Sedekah,"2021-02-05 06:13:00",50000.0,COMPLETED,OVO
+29637,Eman Sulaeman,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-05 06:21:05",100000.0,settlement,bank_transfer
+29638,Alm Soepardji,PWA,Infaq Sedekah,"2021-02-05 06:21:10",100000.0,settlement,bank_transfer
+29640,Eman Sulaeman,Android,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-05 06:26:26",200000.0,settlement,bank_transfer
+29641,Hamba Allah,PWA,Infaq Sedekah,"2021-02-05 06:35:05",25000.0,settlement,bank_transfer
+29642,Afif Maulana,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-05 06:36:42",50000.0,settlement,bank_transfer
+29643,Muhammad Aldi Winendra,PWA,Infaq Sedekah,"2021-02-05 07:03:04",100000.0,settlement,bank_transfer
+29646,Vivien,PWA,Infaq Sedekah,"2021-02-05 07:22:07",10000.0,settlement,bank_transfer
+29647,mangir cp,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-05 07:22:53",50000.0,settlement,gopay
+29648,Nopi Andriyanti,PWA,Zakat Akhir Tahun,"2021-02-05 07:50:18",200000.0,settlement,bank_transfer
+29649,Reni Novelianti,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-05 07:50:45",100000.0,settlement,bank_transfer
+29650,Aprita damayanti,PWA,Infaq Sedekah,"2021-02-05 08:04:33",100000.0,settlement,bank_transfer
+29652,Gatot,PWA,Infaq Sedekah,"2021-02-05 08:14:44",100000.0,settlement,bank_transfer
+29654,Tommy Wibowo,PWA,Zakat Profesi,"2021-02-05 08:17:31",500000.0,settlement,echannel
+29665,Nila Kuntari,WEB,Infaq Sedekah,"2021-02-05 09:11:11",100000.0,settlement,BCA Yayasan Mizan Amanah
+29666,Dhidi Mulyadi,Web,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 09:15:50",750000.0,settlement,bank_transfer
+29667,Adreena Adzkiya Mecca,WEB,PANTI ASUHAN YATIM DAN DHUAFA CIPAYUNG,"2021-02-05 09:17:01",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+29668,perdana kusuma,WEB,Infaq Sedekah,"2021-02-05 09:17:47",100000.0,settlement,BCA Yayasan Mizan Amanah
+29681,Aulia mira sari,PWA,Zakat Profesi,"2021-02-05 09:55:16",200000.0,settlement,bank_transfer
+29686,Renny,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-05 10:07:22",100000.0,settlement,bank_transfer
+29689,Hamba allah,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-05 10:18:04",50000.0,SUCCESS_COMPLETED,LINKAJA
+29690,Fajar Budi Mulia,Web,Zakat Profesi,"2021-02-05 10:18:11",200000.0,settlement,bank_transfer
+29692,Fajar Budi Mulia,Web,Infaq Sedekah,"2021-02-05 10:22:37",200000.0,settlement,bank_transfer
+29693,Suryanto,WEB,Infaq Sedekah,"2021-02-05 10:30:49",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+29704,Hj Nurmi Siddik,WEB,Infaq Sedekah,"2021-02-05 10:47:58",1000000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+29705,Ike,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-05 10:48:20",50000.0,settlement,bank_transfer
+29708,Raisa,Web,PANTI ASUHAN YATIM DAN DHUAFA BANJARMASIN,"2021-02-05 10:56:01",250000.0,settlement,bank_transfer
+29712,Ita Rosita,WEB,Infaq Sedekah,"2021-02-05 11:04:05",300000.0,settlement,BCA Yayasan Mizan Amanah
+29715,umi kalsum,WEB,Infaq Sedekah,"2021-02-05 11:06:48",200000.0,settlement,BCA Yayasan Mizan Amanah
+29718,Ika,WEB,Infaq Sedekah,"2021-02-05 11:17:57",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+29719,Tio,PWA,Zakat Profesi,"2021-02-05 11:19:57",150000.0,settlement,bank_transfer
+29720,Tio,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-05 11:24:49",150000.0,settlement,bank_transfer
+29721,Randhy Rahmawan Hidayat,PWA,Zakat Profesi,"2021-02-05 11:25:53",100000.0,COMPLETED,OVO
+29726,Deta,WEB,Infaq Sedekah,"2021-02-05 11:48:54",100000.0,settlement,BCA Yayasan Mizan Amanah
+29727,La,PWA,Infaq Sedekah,"2021-02-05 11:58:44",1000000.0,settlement,bank_transfer
+29728,YULI YUSMARA,WEB,Infaq Sedekah,"2021-02-05 12:06:42",150000.0,settlement,BCA Yayasan Mizan Amanah
+29729,fian aditya,Android,Berkah Dengan Sedekah,"2021-02-05 12:07:53",90800.0,settlement,gopay
+29730,Karyadi,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 12:13:35",100000.0,settlement,BNI Yayasan Mizan Amanah
+29731,"LIA SRIHARTATI, Dr. Lee",WEB,Berkah Dengan Sedekah,"2021-02-05 12:18:33",4250000.0,settlement,BCA Yayasan Mizan Amanah
+29732,Robi,WEB,Infaq Sedekah,"2021-02-05 12:23:54",500000.0,settlement,BCA Yayasan Mizan Amanah
+29733,Feizal Syahmenan,WEB,Infaq Sedekah,"2021-02-05 12:29:16",10000.0,settlement,Mandiri Yayasan Mizan Amanah
+29734,Enjang Abdulatif,Android,Zakat Profesi,"2021-02-05 12:33:09",150000.0,settlement,bank_transfer
+29742,TOMY dan Badrian,Android,PANTI ASUHAN YATIM DAN DHUAFA DUREN SAWIT,"2021-02-05 13:05:02",50000.0,settlement,bank_transfer
+29743,Feizal Syahmenan,WEB,Infaq Sedekah,"2021-02-05 13:06:32",10000.0,settlement,Mandiri Yayasan Mizan Amanah
+29744,Bachtiar Nur Alam,PWA,Infaq Sedekah,"2021-02-05 13:09:39",15000.0,settlement,bank_transfer
+29745,Nur Aryati,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-05 13:13:43",100000.0,settlement,bank_transfer
+29746,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-02-05 13:14:13",300000.0,settlement,bank_transfer
+29747,Ibu Titien,WEB,Infaq Sedekah,"2021-02-05 13:56:15",500000.0,settlement,BCA Yayasan Mizan Amanah
+29748,Nasyeilla Adelia,PWA,Berkah Dengan Sedekah,"2021-02-05 13:58:33",50000.0,settlement,gopay
+29750,suci,Web,PANTI ASUHAN YATIM DAN DHUAFA SOLO,"2021-02-05 13:58:41",100000.0,settlement,bank_transfer
+29751,ibu suminah,WEB,Wakaf Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-05 14:00:18",100000.0,settlement,BCA Yayasan Mizan Amanah
+29755,Faisal Hannif,PWA,Zakat Profesi,"2021-02-05 14:32:26",300000.0,settlement,echannel
+29756,BAYU WAHYUDI,WEB,Infaq Sedekah,"2021-02-05 14:40:39",500000.0,settlement,BCA Yayasan Mizan Amanah
+29757,Fiona Latisya,Android,Berkah Dengan Sedekah,"2021-02-05 15:07:24",30000.0,settlement,echannel
+29762,Renaldi Perdana Kesuma,PWA,Infaq Sedekah,"2021-02-05 15:27:25",500000.0,settlement,bank_transfer
+29765,Endorse Marketing,Web,Infaq Sedekah,"2021-02-05 15:38:09",2.0,COMPLETED,OVO
+29766,Anisa Damayanti,PWA,Infaq Sedekah,"2021-02-05 16:05:43",50000.0,settlement,bank_transfer
+29767,Aris Fajar Yp,Android,"Ayah Bunda, Aku Ingin Bersekolah Lagi...","2021-02-05 16:08:14",600000.0,settlement,echannel
+29768,Widya Riefiyanti,PWA,Zakat Profesi,"2021-02-05 16:18:22",200000.0,settlement,bank_transfer
+29769,Narsih,WEB,Infaq Sedekah,"2021-02-05 16:21:02",350000.0,settlement,Mandiri Yayasan Mizan Amanah
+29770,Rizki wulandari,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 16:24:48",300000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+29771,Syams Arif,WEB,Infaq Sedekah,"2021-02-05 16:41:11",200000.0,settlement,BCA Yayasan Mizan Amanah
+29772,Ridzky Yudhistira Kuswanto,Web,PANTI ASUHAN YATIM DAN DHUAFA MALANG,"2021-02-05 16:50:07",70506.0,settlement,Transfer Bank Mandiri - 1320505050535
+29774,Tanto Harjatmoro,WEB,Infaq Sedekah,"2021-02-05 17:17:29",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+29775,Fitrah,WEB,Infaq Sedekah,"2021-02-05 17:21:24",3000000.0,settlement,BCA Yayasan Mizan Amanah
+29778,Hamba Allah,PWA,PANTI ASUHAN YATIM DAN DHUAFA POJOK CIMAHI,"2021-02-05 17:51:22",50000.0,settlement,bank_transfer
+29779,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 18:00:33",10000.0,settlement,bank_transfer
+29781,Muammar,Android,Berkah Dengan Sedekah,"2021-02-05 18:45:53",200000.0,settlement,bank_transfer
+29785,Acnan Setyawan,WEB,Berkah Dengan Sedekah,"2021-02-05 21:16:46",100000.0,settlement,Muamalat Yayasan Mizan Amanah
+29786,Nepi Puji Astuti,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 21:47:31",50000.0,settlement,BCA Yayasan Mizan Amanah
+29787,Sarayaintan,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-05 21:51:31",100000.0,settlement,BCA Yayasan Mizan Amanah
+29789,Z,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-05 22:15:11",20000.0,settlement,bank_transfer
+29790,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-05 22:37:16",1000.0,COMPLETED,OVO
+29792,Frida ferdani putri,PWA,Zakat Profesi,"2021-02-06 04:51:02",500988.0,settlement,Transfer Bank Mandiri - 1320505050535
+29793,Mita Septiani,PWA,Infaq Sedekah,"2021-02-06 05:19:36",10000.0,settlement,gopay
+29796,Ari,Android,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-06 05:22:20",10000.0,settlement,bank_transfer
+29797,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-02-06 05:22:29",100000.0,settlement,bank_transfer
+29800,Titien,PWA,Infaq Sedekah,"2021-02-06 06:34:53",10000.0,settlement,bank_transfer
+29801,Alan,WEB,Berkah Dengan Sedekah,"2021-02-06 06:43:23",150000.0,settlement,BCA Yayasan Mizan Amanah
+29802,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-06 06:44:18",5000.0,SUCCESS_COMPLETED,LINKAJA
+29804,Sely Nurlintang,WEB,Berkah Dengan Sedekah,"2021-02-06 06:49:41",200000.0,settlement,BCA Yayasan Mizan Amanah
+29807,Rizky Rosalia,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-06 09:13:28",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+29811,Ninik,PWA,Berkah Dengan Sedekah,"2021-02-06 16:23:28",200000.0,settlement,bank_transfer
+29812,bambang koswara,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-02-06 18:59:31",150000.0,settlement,bank_transfer
+29819,Titis Arti Ulupi,PWA,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-06 21:53:11",100000.0,settlement,bank_transfer
+29820,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-06 23:13:45",1000.0,COMPLETED,OVO
+29823,Fitri Nurilah,IOS,"Ayah Bunda, Aku Ingin Bersekolah Lagi...","2021-02-07 04:50:03",10309.0,settlement,Transfer Bank Mandiri - 1320505050535
+29827,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-07 05:07:12",5000.0,SUCCESS_COMPLETED,LINKAJA
+29828,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-07 05:30:52",100000.0,settlement,bank_transfer
+29831,Muhamad Fahmi Aulia,Android,Bantu Raih Cita-Cita Susi dari Pedagang Keliling Menjadi Hafidzh Qur’an,"2021-02-07 06:26:51",10000.0,settlement,bank_transfer
+29832,Benny Pratama,PWA,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-02-07 06:33:04",2000.0,settlement,gopay
+29833,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-07 06:40:48",10000.0,settlement,bank_transfer
+29834,Rini Nurdianti,WEB,Berkah Dengan Sedekah,"2021-02-07 08:20:48",200000.0,settlement,BCA Yayasan Mizan Amanah
+29835,Nova Puspita Sari,WEB,Berkah Dengan Sedekah,"2021-02-07 09:04:02",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+29836,mayang mirajaries taurai,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-07 09:55:07",200000.0,settlement,bank_transfer
+29837,Adhimaysa,WEB,Berkah Dengan Sedekah,"2021-02-07 11:01:15",600000.0,settlement,BCA Yayasan Mizan Amanah
+29838,Eman Sulaeman,WEB,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-07 11:09:07",100304.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+29839,Ronnie Yunanda Wardono,PWA,Zakat Profesi,"2021-02-07 11:24:24",1000957.0,settlement,Transfer Bank Mandiri - 1320505050535
+29840,Gusti Noor Zuraidah,WEB,Berkah Dengan Sedekah,"2021-02-07 11:57:53",1000000.0,settlement,BCA Yayasan Mizan Amanah
+29854,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-07 18:38:46",1000.0,COMPLETED,OVO
+29855,Fiona Latisya,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-07 19:31:36",30000.0,settlement,echannel
+29856,yogi,PWA,Zakat Profesi,"2021-02-07 20:47:23",1100000.0,settlement,bank_transfer
+29869,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-08 00:43:13",10000.0,settlement,bank_transfer
+29870,Lalita Pristy,Web,"Mushola Seperti Gubuk Reyot di Kampung Laut, Ingin Direnovasi","2021-02-08 03:14:19",300000.0,settlement,bank_transfer
+29875,Ari,Android,PANTI ASUHAN YATIM DAN DHUAFA CONDET,"2021-02-08 05:39:13",10000.0,settlement,bank_transfer
+29876,Titien,PWA,Infaq Sedekah,"2021-02-08 05:40:42",10000.0,settlement,bank_transfer
+29877,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-08 05:56:42",5000.0,SUCCESS_COMPLETED,LINKAJA
+29880,Gandira,Web,PANTI ASUHAN YATIM DAN DHUAFA GANDUL,"2021-02-08 06:33:55",250000.0,settlement,echannel
+29882,Ike Puspitasari,WEB,Berkah Dengan Sedekah,"2021-02-08 08:37:13",15000.0,settlement,BCA Yayasan Mizan Amanah
+29883,Gusti Noor Zuraidah,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-08 08:38:50",1000000.0,settlement,BCA Yayasan Mizan Amanah
+29884,Yoga Ardy,Android,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-08 09:41:31",15000.0,settlement,bank_transfer
+29886,Aulia Urrohmah,Android,Infaq Sedekah,"2021-02-08 09:51:18",50000.0,PAID,DANA
+29887,Sugih,PWA,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-02-08 09:52:44",50000.0,settlement,bank_transfer
+29888,Sugih,PWA,PANTI ASUHAN YATIM DAN DHUAFA ASEM BARIS,"2021-02-08 09:55:21",50000.0,settlement,bank_transfer
+29893,Nadia,PWA,Infak Protein untuk Santri Yatim Penghafal Al-Quran,"2021-02-08 10:13:10",200000.0,settlement,bank_transfer
+29909,Nurhalimah Sari Lubis,WEB,Berkah Dengan Sedekah,"2021-02-08 13:49:25",20000.0,settlement,BCA Yayasan Mizan Amanah
+29914,Endorse Marketing,Android,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-08 15:02:42",4.0,COMPLETED,OVO
+29915,Endorse Marketing,Android,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-08 15:03:45",2.0,settlement,gopay
+29916,Endorse Marketing,Android,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-08 15:05:05",2.0,PAID,DANA
+29917,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-08 15:20:43",2.0,COMPLETED,OVO
+29925,astrid dewanti,WEB,Berkah Dengan Sedekah,"2021-02-08 16:24:03",250000.0,settlement,BCA Yayasan Mizan Amanah
+29929,Fakhrul Taufik,Web,Berkah Dengan Sedekah,"2021-02-08 17:42:05",1000000.0,settlement,bank_transfer
+29932,irfandhi dwi satria,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-08 18:57:22",150000.0,settlement,bank_transfer
+29950,Mutiara Dewi Bahari,PWA,PANTI ASUHAN YATIM DAN DHUAFA DUREN SAWIT,"2021-02-08 21:50:50",25000.0,settlement,echannel
+29952,nugroho tri hanantyo,PWA,Infaq Sedekah,"2021-02-09 00:15:50",400000.0,settlement,bank_transfer
+29954,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI 2,"2021-02-09 04:19:31",100000.0,settlement,bank_transfer
+29959,Tika,Android,Zakat Profesi,"2021-02-09 05:04:13",50000.0,PAID,DANA
+29960,Muhamad rifki,IOS,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-09 05:14:11",20000.0,settlement,bank_transfer
+29964,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-02-09 05:55:24",200000.0,settlement,bank_transfer
+29965,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-09 06:16:33",5000.0,SUCCESS_COMPLETED,LINKAJA
+29968,Muhamad Fahmi Aulia,Android,"Ayah Bunda, Aku Ingin Bersekolah Lagi...","2021-02-09 06:48:37",10000.0,settlement,bank_transfer
+29970,Vivien,PWA,Infaq Sedekah,"2021-02-09 08:26:25",10000.0,settlement,bank_transfer
+29971,Aang,WEB,Infaq Sedekah,"2021-02-09 08:52:26",100000.0,settlement,BCA Yayasan Mizan Amanah
+29979,yudi,Android,"Bantu Berikan Hunian Layak Untuk Pak Ozak di Usia Tuanya, Ia Tinggal di Saung Reyot Pinggir Kali","2021-02-09 10:11:55",20000.0,settlement,bank_transfer
+29984,nugroho tri hanantyo,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-09 11:20:07",100000.0,settlement,bank_transfer
+29986,Muhammad Syaiful,PWA,Zakat Profesi,"2021-02-09 12:08:56",727691.0,settlement,gopay
+29998,Alishia,PWA,Bantu Raih Cita-Cita Susi dari Pedagang Keliling Menjadi Hafidzh Qur’an,"2021-02-09 15:41:21",100000.0,settlement,bank_transfer
+30005,Endorse Marketing,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-09 16:30:43",5.0,COMPLETED,OVO
+30016,brian ari,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-09 16:48:40",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30018,Hamba ALLAH SWT,PWA,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK KKO,"2021-02-09 17:01:08",250000.0,settlement,bank_transfer
+30023,Agus Setiawan,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-09 17:14:07",1.0,COMPLETED,OVO
+30029,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-09 17:42:55",3.0,COMPLETED,OVO
+30036,Ahmad salman alfarisy,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-09 22:14:45",100000.0,COMPLETED,OVO
+30050,Ayu Rahayu,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-10 05:23:37",100000.0,settlement,bank_transfer
+30052,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-10 05:34:55",5000.0,SUCCESS_COMPLETED,LINKAJA
+30057,BAMBANG SUJATMIKO,Android,Berkah Dengan Sedekah,"2021-02-10 08:16:12",1000.0,settlement,gopay
+30058,BAMBANG SUJATMIKO,Android,Zakat Akhir Tahun,"2021-02-10 08:18:14",1400.0,settlement,gopay
+30059,"ARIYANA PURNAWATY,",WEB,Infaq Sedekah,"2021-02-10 08:59:05",300000.0,settlement,OFFLINE_DONATION
+30062,Roby Alam Hadiansyah,Android,Zakat Profesi,"2021-02-10 12:24:50",60000.0,COMPLETED,OVO
+30063,Anisa Septiana,Web,Zakat Profesi,"2021-02-10 12:35:25",105000.0,settlement,echannel
+30064,junita,WEB,Berkah Dengan Sedekah,"2021-02-10 12:41:27",500000.0,settlement,BCA Yayasan Mizan Amanah
+30065,Nita Lilis Anjarwati,PWA,Zakat Profesi,"2021-02-10 12:43:24",50000.0,settlement,bank_transfer
+30066,iqbal wiratma,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-10 13:24:54",1000000.0,settlement,bank_transfer
+30068,Muhammad Fauzan,WEB,Berkah Dengan Sedekah,"2021-02-10 16:32:20",1750000.0,settlement,BCA Yayasan Mizan Amanah
+30069,Taufiq,PWA,Infaq Sedekah,"2021-02-10 16:56:02",1.0,COMPLETED,OVO
+30070,SRI SUSTYANTI APRILIA,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-10 17:04:22",30000.0,settlement,BCA Yayasan Mizan Amanah
+30071,Arbhi Arioso,Android,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-10 19:06:50",10000.0,settlement,gopay
+30073,arie,Android,Nazar,"2021-02-10 20:21:49",100000.0,settlement,bank_transfer
+30083,Muhamad rifki,PWA,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-02-10 22:07:51",10000.0,settlement,bank_transfer
+30090,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-10 23:52:34",2000.0,COMPLETED,OVO
+30091,Developer,Web,Infaq Sedekah,"2021-02-11 01:03:47",1.0,COMPLETED,OVO
+30092,Taufiq,Web,Infaq Sedekah,"2021-02-11 01:06:11",1.0,COMPLETED,OVO
+30107,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-02-11 04:57:30",200000.0,settlement,bank_transfer
+30109,Ari,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-11 05:13:48",10000.0,settlement,gopay
+30110,Mita Septiani,PWA,Infaq Sedekah,"2021-02-11 05:17:07",10000.0,COMPLETED,OVO
+30111,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-11 05:25:22",5000.0,SUCCESS_COMPLETED,LINKAJA
+30112,Ridzky Yudhistira Kuswanto,Web,PANTI ASUHAN YATIM DAN DHUAFA MALANG,"2021-02-11 05:38:58",70000.0,settlement,echannel
+30113,Afif Maulana,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-11 05:54:58",50000.0,settlement,bank_transfer
+30114,Benny Pratama,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-11 06:40:50",1849.0,COMPLETED,OVO
+30115,Titien,PWA,Infaq Sedekah,"2021-02-11 07:07:34",10000.0,settlement,bank_transfer
+30117,Aang,WEB,Berkah Dengan Sedekah,"2021-02-11 08:45:43",200000.0,settlement,BCA Yayasan Mizan Amanah
+30118,Woellanshop,WEB,Berkah Dengan Sedekah,"2021-02-11 09:01:20",50000.0,settlement,BCA Yayasan Mizan Amanah
+30119,KEN MEITY ANGGITA,WEB,Berkah Dengan Sedekah,"2021-02-11 09:07:38",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+30120,Yulia Yulianty,WEB,Berkah Dengan Sedekah,"2021-02-11 09:13:39",400000.0,settlement,BCA Yayasan Mizan Amanah
+30122,HENRY EKO PRASETYO,PWA,"Ayah Bunda, Aku Ingin Bersekolah Lagi...","2021-02-11 09:44:22",250000.0,settlement,bank_transfer
+30123,mohammad rakhmat,Android,Berkah Dengan Sedekah,"2021-02-11 10:45:00",15000.0,settlement,bank_transfer
+30125,Agus Setiawan,WEB,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-11 11:27:47",1.0,COMPLETED,OVO
+30127,Ade Mimin Rohimin,WEB,Berkah Dengan Sedekah,"2021-02-11 12:24:25",23500.0,settlement,Muamalat Yayasan Mizan Amanah
+30130,Ramadhan,WEB,Berkah Dengan Sedekah,"2021-02-11 12:41:09",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30131,Alan,WEB,Berkah Dengan Sedekah,"2021-02-11 12:54:22",300000.0,settlement,BCA Yayasan Mizan Amanah
+30132,Hamba Allah,Android,Zakat Profesi,"2021-02-11 13:03:41",100000.0,settlement,bank_transfer
+30133,Sulistyo Tirtokusumo,WEB,Berkah Dengan Sedekah,"2021-02-11 13:56:35",250000.0,settlement,Mandiri Yayasan Mizan Amanah
+30134,Roby Alam Hadiansyah,Android,Zakat Profesi,"2021-02-11 14:19:57",171.0,COMPLETED,OVO
+30138,Fathimah Al,PWA,Mari Bantu Ringankan Beban Ibu Esti Untuk Kedua Putra Kembarnya Yang Miliki Keterbatasan,"2021-02-11 16:06:42",100000.0,settlement,bank_transfer
+30139,Verry,WEB,Berkah Dengan Sedekah,"2021-02-11 16:09:10",200000.0,settlement,BCA Yayasan Mizan Amanah
+30140,Mahfud Rofi,WEB,Berkah Dengan Sedekah,"2021-02-11 16:34:01",250000.0,settlement,Mandiri Yayasan Mizan Amanah
+30141,septian eko pramono,Android,Infaq Sedekah,"2021-02-11 18:02:33",300000.0,settlement,bank_transfer
+30143,Eko Santoso,Android,PANTI ASUHAN YATIM DAN DHUAFA MALANG,"2021-02-11 18:27:09",5000.0,settlement,gopay
+30145,Licha resmicha,PWA,Infaq Sedekah,"2021-02-11 18:39:29",50000.0,settlement,bank_transfer
+30147,endah,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-11 20:26:28",300000.0,settlement,bank_transfer
+30148,Fiona Latisya,Android,Infaq Sedekah,"2021-02-11 20:54:42",10000.0,settlement,echannel
+30149,udi agus riyadi,Android,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-11 22:01:54",100000.0,settlement,echannel
+30151,TOMY dan Badrian,Android,Zakat Profesi,"2021-02-11 22:40:49",100000.0,settlement,bank_transfer
+30152,Muhamad rifki,PWA,PAKET SEMBAKO UNTUK KAUM DHUAFA YAN TERDAMPAK COVID-19,"2021-02-11 22:44:58",10000.0,settlement,bank_transfer
+30153,Ibrahim Orel Salainti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-12 03:26:53",500000.0,settlement,bank_transfer
+30157,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-02-12 04:57:03",150000.0,settlement,bank_transfer
+30159,muslim,Android,Berkah Dengan Sedekah,"2021-02-12 05:21:07",50000.0,settlement,bank_transfer
+30160,Puteri novita,PWA,Infaq Sedekah,"2021-02-12 05:37:57",5000.0,settlement,gopay
+30162,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-12 05:38:10",5000.0,SUCCESS_COMPLETED,LINKAJA
+30163,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-12 05:51:19",100000.0,settlement,bank_transfer
+30165,mohammad rakhmat,Android,Berkah Dengan Sedekah,"2021-02-12 06:14:49",20000.0,settlement,bank_transfer
+30170,Bayu Prasetyo Nugroho,PWA,Infak Protein untuk Santri Yatim Penghafal Al-Quran,"2021-02-12 07:19:36",100000.0,settlement,bank_transfer
+30171,Hamba Allah,PWA,Infaq Sedekah,"2021-02-12 07:36:06",50000.0,settlement,bank_transfer
+30173,Hamba allah,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-12 08:33:02",40000.0,settlement,bank_transfer
+30174,BAYU WAHYUDI,WEB,Berkah Dengan Sedekah,"2021-02-12 08:40:38",500000.0,settlement,BCA Yayasan Mizan Amanah
+30176,Eko army,PWA,Infaq Sedekah,"2021-02-12 08:56:02",100000.0,settlement,bank_transfer
+30177,Wanti,PWA,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-12 08:58:22",200000.0,settlement,bank_transfer
+30178,Eric rahman januar,PWA,Bantu Hafidz Raih Impiannya Menjadi Pahlawan dan Penghafal Qur'an,"2021-02-12 09:10:23",100000.0,settlement,bank_transfer
+30179,Aang,WEB,Berkah Dengan Sedekah,"2021-02-12 09:14:12",100000.0,settlement,BCA Yayasan Mizan Amanah
+30180,Hamba Allah,IOS,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-12 09:19:33",100000.0,settlement,bank_transfer
+30181,ADI ATMADI ANANDA SOULTHAN,WEB,Infak Protein untuk Santri Yatim Penghafal Al-Quran,"2021-02-12 09:20:40",800000.0,settlement,BCA Yayasan Mizan Amanah
+30183,Tantri,Web,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-12 09:26:00",250421.0,settlement,Transfer Bank Mandiri - 1320505050535
+30184,Yani,WEB,BANTU PENUHI SARANA PRASARANA SANTRI PENGHAFAL ALQURAN,"2021-02-12 09:35:43",200000.0,settlement,BCA Yayasan Mizan Amanah
+30186,perdana kusuma,WEB,Infaq Sedekah,"2021-02-12 09:44:15",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30187,Nila Kuntari,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-12 10:03:04",70000.0,settlement,BCA Yayasan Mizan Amanah
+30191,Queenaira,WEB,Berkah Dengan Sedekah,"2021-02-12 10:26:05",500000.0,settlement,BCA Yayasan Mizan Amanah
+30192,Defid Tri Rizky,WEB,Berkah Dengan Sedekah,"2021-02-12 10:44:12",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+30193,Rusminah Toyib,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-12 10:46:25",100000.0,settlement,bank_transfer
+30194,Nugroho Purwanto,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-12 10:47:45",1000000.0,settlement,echannel
+30200,Dawiyah,WEB,Berkah Dengan Sedekah,"2021-02-12 11:04:03",500000.0,settlement,BRI Yayasan Mizan Amanah
+30201,Gatot,PWA,Zakat Hasil Tambang,"2021-02-12 11:04:22",100000.0,settlement,bank_transfer
+30202,adhitya fadlirahman,IOS,Berkah Dengan Sedekah,"2021-02-12 11:05:51",500000.0,settlement,gopay
+30203,Idzni,IOS,Infaq Sedekah,"2021-02-12 11:06:49",25000.0,settlement,bank_transfer
+30204,adhitya fadlirahman,IOS,Pray&Donasi untuk Garut&Tasikmalaya #KorbanBencana,"2021-02-12 11:06:54",50000.0,settlement,gopay
+30207,Eko Santoso,Android,PANTI ASUHAN YATIM DAN DHUAFA YOGYAKARTA,"2021-02-12 11:26:40",5000.0,settlement,gopay
+30208,Hamba Allah,PWA,BANTU BEBASKAN PANTI ASUHAN YATIM DAN DHUAFA,"2021-02-12 11:40:13",50000.0,settlement,gopay
+30218,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-02-12 13:26:38",300000.0,settlement,bank_transfer
+30219,mohammad rakhmat,Android,Berkah Dengan Sedekah,"2021-02-12 13:38:04",20000.0,settlement,bank_transfer
+30225,Marsono,PWA,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-12 14:32:10",20000.0,COMPLETED,OVO
+30230,Renaldi Perdana Kesuma,PWA,Infaq Sedekah,"2021-02-12 15:27:41",270000.0,settlement,bank_transfer
+30234,Deni Kurniawati,PWA,Infaq Sedekah,"2021-02-12 15:40:15",15000.0,settlement,bank_transfer
+30235,YULI YUSMARA,WEB,Berkah Dengan Sedekah,"2021-02-12 15:42:08",100000.0,settlement,BCA Yayasan Mizan Amanah
+30239,Alhakim Irsyad,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-12 16:32:54",200000.0,settlement,bank_transfer
+30242,Siti Malisah,PWA,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-12 18:06:19",200000.0,settlement,echannel
+30244,Endorse Marketing,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-12 19:13:41",6.0,settlement,gopay
+30247,Levi,PWA,PANTI ASUHAN YATIM DAN DHUAFA GANDUL,"2021-02-12 19:19:48",10000.0,settlement,gopay
+30250,Hamba Allah,PWA,Berkah Dengan Sedekah,"2021-02-12 20:24:57",100000.0,settlement,bank_transfer
+30252,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-12 21:38:02",3000.0,COMPLETED,OVO
+30254,Katrine Monica,PWA,Infaq Sedekah,"2021-02-12 22:38:49",15000.0,settlement,bank_transfer
+30255,Muhamad rifki,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-13 00:13:33",10000.0,settlement,bank_transfer
+30256,Mita Septiani,PWA,Infaq Sedekah,"2021-02-13 05:14:15",10000.0,COMPLETED,OVO
+30259,Ari,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-13 05:41:41",10000.0,settlement,echannel
+30260,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-02-13 05:44:31",100000.0,settlement,bank_transfer
+30264,Ahmad salman alfarisy,PWA,PAKET SEMBAKO UNTUK KAUM DHUAFA YAN TERDAMPAK COVID-19,"2021-02-13 06:17:22",100000.0,COMPLETED,OVO
+30265,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-13 06:42:11",5000.0,SUCCESS_COMPLETED,LINKAJA
+30266,Sarayaintan,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-13 07:03:47",50000.0,settlement,BCA Yayasan Mizan Amanah
+30267,Woellanshop,WEB,Berkah Dengan Sedekah,"2021-02-13 07:07:29",50000.0,settlement,BCA Yayasan Mizan Amanah
+30268,ibu suminah,WEB,Berkah Dengan Sedekah,"2021-02-13 07:39:08",100000.0,settlement,BCA Yayasan Mizan Amanah
+30269,Ispriwiati Fatma,WEB,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-13 07:43:24",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30270,Ispriwiati Fatma,WEB,Wakaf Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-13 07:45:30",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30271,peni hidayah,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-13 07:50:15",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+30273,"Sudarsono, ST",WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-13 12:03:07",200000.0,settlement,BCA Yayasan Mizan Amanah
+30274,Muhammad Azki,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-13 13:50:34",500000.0,settlement,echannel
+30278,Muhammad Azki,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-13 16:59:38",500000.0,settlement,echannel
+30279,Muhammad Azki,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-13 17:01:27",500000.0,settlement,echannel
+30282,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-14 05:04:34",5000.0,SUCCESS_COMPLETED,LINKAJA
+30287,Puteri novita,PWA,Infaq Sedekah,"2021-02-14 05:44:25",5000.0,settlement,gopay
+30290,Benny Pratama,PWA,PAKET SEMBAKO UNTUK KAUM DHUAFA YAN TERDAMPAK COVID-19,"2021-02-14 06:30:00",1213.0,COMPLETED,OVO
+30291,Ahmad salman alfarisy,PWA,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-02-14 07:15:25",100000.0,settlement,bank_transfer
+30292,Ami reza saputra,PWA,Infaq Sedekah,"2021-02-14 08:44:10",50000.0,settlement,bank_transfer
+30293,Utari K,Web,PANTI ASUHAN YATIM DAN DHUAFA CIOMAS,"2021-02-14 16:52:51",100000.0,settlement,bank_transfer
+30294,Ami reza saputra,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-14 17:05:24",50000.0,settlement,bank_transfer
+30295,Aurora Almeer,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-14 18:31:27",100000.0,settlement,bank_transfer
+30296,Aurora Almeer,PWA,Infaq Sedekah,"2021-02-14 18:33:05",100000.0,settlement,bank_transfer
+30297,Renny,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-14 19:24:28",100000.0,settlement,bank_transfer
+30298,Fiona Latisya,Android,Berkah Dengan Sedekah,"2021-02-14 20:13:27",10000.0,settlement,echannel
+30300,Taufiq,Web,Infaq Sedekah,"2021-02-14 22:48:41",1.0,COMPLETED,OVO
+30301,Taufiq,Android,Berkah Dengan Sedekah,"2021-02-15 01:51:05",1.0,COMPLETED,OVO
+30302,Prajitno,PWA,Bantu Raih Cita-Cita Susi dari Pedagang Keliling Menjadi Hafidzh Qur’an,"2021-02-15 04:32:48",15000.0,settlement,gopay
+30304,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-15 05:07:28",10000.0,settlement,bank_transfer
+30305,Rendra,PWA,Infaq Sedekah,"2021-02-15 05:12:05",10000.0,settlement,bank_transfer
+30306,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Harapan Dede Memberi Mahkota Untuk Orang Tua Di Surga,"2021-02-15 05:28:36",200000.0,settlement,bank_transfer
+30307,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-15 05:36:23",5000.0,SUCCESS_COMPLETED,LINKAJA
+30311,Sanggih saputri meiyani,PWA,Infaq Sedekah,"2021-02-15 06:45:55",10000.0,settlement,bank_transfer
+30312,Abit toni,WEB,Berkah Dengan Sedekah,"2021-02-15 08:38:34",250000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+30313,Woellanshop,WEB,Berkah Dengan Sedekah,"2021-02-15 08:50:30",50000.0,settlement,BCA Yayasan Mizan Amanah
+30314,Dimas,PWA,Berkah Dengan Sedekah,"2021-02-15 08:55:46",100000.0,settlement,bank_transfer
+30315,Mahfud Rofi,WEB,Berkah Dengan Sedekah,"2021-02-15 09:42:49",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+30317,Asti,PWA,Zakat Barang Temuan,"2021-02-15 10:14:22",3000.0,PAID,DANA
+30318,Asti,PWA,Zakat Emas Perak dan Uang,"2021-02-15 10:14:54",3000.0,PAID,DANA
+30319,Asti,PWA,Zakat Perniagaan,"2021-02-15 10:15:30",3000.0,PAID,DANA
+30320,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-02-15 10:15:58",3000.0,PAID,DANA
+30321,Asti,PWA,Zakat Akhir Tahun,"2021-02-15 10:16:20",3000.0,PAID,DANA
+30322,Asti,PWA,Zakat Profesi,"2021-02-15 10:16:41",3000.0,PAID,DANA
+30323,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-15 10:17:04",3000.0,PAID,DANA
+30324,Asti,PWA,Nazar,"2021-02-15 10:17:51",3000.0,PAID,DANA
+30325,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-15 10:18:16",3000.0,PAID,DANA
+30326,Asti,PWA,Berkah Dengan Sedekah,"2021-02-15 10:18:41",3000.0,PAID,DANA
+30327,Asti,PWA,Infaq Sedekah,"2021-02-15 10:20:14",3000.0,PAID,DANA
+30329,ira ayu novieyanti,WEB,Infaq Sedekah,"2021-02-15 10:37:08",50000.0,settlement,BRI Yayasan Mizan Amanah
+30330,Edi Wibowo,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-15 10:39:59",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30331,akbarwidias,Android,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-02-15 10:48:14",100000.0,settlement,bank_transfer
+30333,perdana kusuma,WEB,Infaq Sedekah,"2021-02-15 14:27:03",937500.0,settlement,BCA Yayasan Mizan Amanah
+30334,Alif Setyo Pambudi,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-15 14:34:40",100000.0,settlement,echannel
+30335,Alvandha Adindra,Web,"Bantu Pengobatan Pak Amin, Muka dan Tubuhnya Terluka Bakar","2021-02-15 14:47:14",50000.0,settlement,bank_transfer
+30336,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-15 15:18:30",1.0,COMPLETED,OVO
+30340,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-15 17:15:17",1.0,COMPLETED,OVO
+30341,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA KRUKUT DEPOK,"2021-02-16 06:46:27",100000.0,settlement,bank_transfer
+30343,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 10:15:50",1.0,COMPLETED,OVO
+30346,Rizal saputra,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 10:24:30",5000.0,SUCCESS_COMPLETED,LINKAJA
+30348,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 10:27:52",1.0,COMPLETED,OVO
+30349,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 10:36:37",1.0,COMPLETED,OVO
+30350,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 10:42:17",1.0,COMPLETED,OVO
+30351,Email Marketing,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 10:45:42",1.0,COMPLETED,OVO
+30357,Agus Setiawan,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 11:08:50",1.0,COMPLETED,OVO
+30358,Agus Setiawan,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 11:15:36",1.0,COMPLETED,OVO
+30359,Agus Setiawan,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 11:22:47",1.0,COMPLETED,OVO
+30360,Agus Setiawan,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 11:26:18",1.0,COMPLETED,OVO
+30361,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 12:15:21",5000.0,SUCCESS_COMPLETED,LINKAJA
+30364,Taufiq,WEB,Infaq Sedekah,"2021-02-16 14:10:58",1.0,COMPLETED,OVO
+30367,Taufiq,WEB,Infaq Sedekah,"2021-02-16 15:19:47",1.0,COMPLETED,OVO
+30369,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-16 16:20:53",4.0,COMPLETED,OVO
+30370,Endorse Marketing,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-16 16:25:24",100.0,SUCCESS_COMPLETED,LINKAJA
+30371,Levi,PWA,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-02-16 18:44:05",40000.0,settlement,gopay
+30372,Adipada Cheppy,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-16 18:47:41",100.0,settlement,gopay
+30377,Hana Karimah,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-16 22:05:29",150000.0,settlement,bank_transfer
+30387,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-17 05:01:39",5000.0,SUCCESS_COMPLETED,LINKAJA
+30388,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-17 05:04:16",10000.0,settlement,bank_transfer
+30390,Sanggih saputri meiyani,PWA,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-02-17 05:32:50",10000.0,settlement,bank_transfer
+30391,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-17 05:33:01",100000.0,settlement,bank_transfer
+30392,Mita Septiani,PWA,Infaq Sedekah,"2021-02-17 05:48:34",10000.0,COMPLETED,OVO
+30394,Tria Ludmila,PWA,Infaq Sedekah,"2021-02-17 06:26:22",182000.0,settlement,bank_transfer
+30395,Benny Pratama,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-17 06:29:13",2000.0,COMPLETED,OVO
+30396,Woellanshop,WEB,Berkah Dengan Sedekah,"2021-02-17 08:33:32",50000.0,settlement,BCA Yayasan Mizan Amanah
+30397,muhammad risa bani,WEB,Berkah Dengan Sedekah,"2021-02-17 08:39:34",250000.0,settlement,BCA Yayasan Mizan Amanah
+30398,Santosa wijaya,WEB,Berkah Dengan Sedekah,"2021-02-17 08:59:13",100000.0,settlement,BCA Yayasan Mizan Amanah
+30399,Bayu Wahyudi,WEB,Berkah Dengan Sedekah,"2021-02-17 09:52:55",500000.0,settlement,BCA Yayasan Mizan Amanah
+30401,Neneng nulbinawati,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-17 11:03:34",200000.0,settlement,bank_transfer
+30402,Andri setiawan,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-17 11:18:29",1000000.0,settlement,BCA Yayasan Mizan Amanah
+30403,astrianirika33,WEB,Berkah Dengan Sedekah,"2021-02-17 11:21:41",100000.0,settlement,BCA Yayasan Mizan Amanah
+30406,Muhamad rifki,PWA,Kepedulian Terhadap Disabilitas Indonesia,"2021-02-17 12:55:05",10000.0,settlement,bank_transfer
+30410,Endorse Marketing,Android,Bantuan Untuk Korban Banjir Di Kalimantan Selatan,"2021-02-17 15:56:34",2.0,COMPLETED,OVO
+30411,Endorse Marketing,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-17 15:59:39",2.0,COMPLETED,OVO
+30414,hany fitriyani,Android,Zakat Profesi,"2021-02-17 16:01:15",500000.0,settlement,echannel
+30415,Endorse Marketing,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-17 16:03:29",3.0,settlement,gopay
+30416,Endorse Marketing,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-17 16:04:20",5.0,PAID,DANA
+30418,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-17 16:23:49",4.0,COMPLETED,OVO
+30420,Endorse Marketing,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-17 16:28:34",2.0,COMPLETED,OVO
+30421,Endorse Marketing,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-17 16:31:05",2.0,COMPLETED,OVO
+30424,Hamba Allah,PWA,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-17 17:13:49",15000.0,settlement,echannel
+30425,Rusminah,WEB,Infaq Sedekah,"2021-02-17 17:20:46",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+30426,Virgi Akbar,PWA,Infaq Sedekah,"2021-02-17 17:21:48",200144.0,settlement,Transfer Bank Mandiri Syariah - 7277777775
+30427,Ade,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-17 17:26:08",50000.0,settlement,Mandiri Yayasan Mizan Amanah
+30432,Levi,PWA,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-02-17 19:53:20",40000.0,settlement,gopay
+30433,Abu Alhafidzi,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-17 20:24:09",1000000.0,PAID,DANA
+30434,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-17 22:25:00",5000.0,COMPLETED,OVO
+30448,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA KRUKUT DEPOK,"2021-02-18 05:29:16",100000.0,settlement,bank_transfer
+30450,Sanggih saputri meiyani,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-18 05:36:32",10000.0,settlement,bank_transfer
+30453,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-18 06:48:45",5000.0,SUCCESS_COMPLETED,LINKAJA
+30463,Nursidik Cahyono,WEB,Berkah Dengan Sedekah,"2021-02-18 10:08:54",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30468,Hery Suyitno,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 10:14:10",500522.0,settlement,Mandiri Yayasan Mizan Amanah
+30470,Bambang Subekti,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 10:18:05",100000.0,settlement,bank_transfer
+30474,Hamba Allah,PWA,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-18 10:28:08",30000.0,settlement,bank_transfer
+30475,Nur Aryati,PWA,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-18 10:29:42",100000.0,settlement,bank_transfer
+30476,Intan puspita,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 10:57:27",100000.0,settlement,bank_transfer
+30478,Meta Astari,WEB,Berkah Dengan Sedekah,"2021-02-18 11:28:29",50000.0,settlement,BCA Yayasan Mizan Amanah
+30481,Pranaya Arya Satya,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 11:42:59",100000.0,settlement,bank_transfer
+30483,Suradal,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 11:43:57",200000.0,settlement,bank_transfer
+30484,ari kristianto,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 13:18:20",150000.0,settlement,Mandiri Yayasan Mizan Amanah
+30485,Aang,WEB,Berkah Dengan Sedekah,"2021-02-18 13:18:23",200000.0,settlement,BCA Yayasan Mizan Amanah
+30486,Santosa wijaya,WEB,Berkah Dengan Sedekah,"2021-02-18 13:22:23",100000.0,settlement,BCA Yayasan Mizan Amanah
+30493,Wulan,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 14:51:32",500000.0,settlement,gopay
+30494,Dewi Asril,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 14:52:39",200000.0,settlement,BCA Yayasan Mizan Amanah
+30500,S,PWA,Kepedulian Terhadap Disabilitas Indonesia,"2021-02-18 17:12:04",20554.0,settlement,Transfer Bank Mandiri Syariah - 7277777775
+30501,Levi,PWA,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-02-18 19:03:49",40000.0,settlement,gopay
+30503,Santoso,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-18 20:34:21",100000.0,settlement,bank_transfer
+30508,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-18 23:30:49",2000.0,COMPLETED,OVO
+30510,Gatot,PWA,Infaq Sedekah,"2021-02-19 03:13:11",100000.0,settlement,bank_transfer
+30512,Yuradi,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-19 03:44:05",210000.0,settlement,bank_transfer
+30517,Oma lief,PWA,Kepedulian Terhadap Disabilitas Indonesia,"2021-02-19 05:04:18",10000.0,COMPLETED,OVO
+30519,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-02-19 05:10:22",150000.0,settlement,bank_transfer
+30521,Iman Setiawan,PWA,Infaq Sedekah,"2021-02-19 05:44:01",500000.0,settlement,bank_transfer
+30522,Sanggih saputri meiyani,PWA,Infak Protein untuk Santri Yatim Penghafal Al-Quran,"2021-02-19 05:46:40",10000.0,settlement,bank_transfer
+30523,Ari,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-19 05:50:23",10000.0,settlement,bank_transfer
+30524,Fahlia Asweni,PWA,Infaq Sedekah,"2021-02-19 05:55:00",50000.0,settlement,echannel
+30526,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-19 06:05:56",100000.0,settlement,bank_transfer
+30531,Ayu Rahayu,PWA,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-19 06:17:06",100000.0,settlement,bank_transfer
+30532,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-19 06:39:59",5000.0,SUCCESS_COMPLETED,LINKAJA
+30535,Eni Budirahayu,PWA,Infaq Sedekah,"2021-02-19 07:58:35",1000000.0,settlement,bank_transfer
+30536,Hamba Allah,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 08:12:10",25000.0,COMPLETED,OVO
+30537,Kurniawan,Android,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-19 08:14:09",250000.0,settlement,bank_transfer
+30538,suci,Web,PANTI ASUHAN YATIM DAN DHUAFA SOLO,"2021-02-19 08:14:38",100000.0,settlement,bank_transfer
+30540,Hidayat EP,PWA,Infaq Sedekah,"2021-02-19 08:25:37",250000.0,settlement,bank_transfer
+30541,Nila Kuntari,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-19 09:01:43",70000.0,settlement,BCA Yayasan Mizan Amanah
+30542,Hamba Allah,PWA,PANTI ASUHAN YATIM DAN DHUAFA CONDET,"2021-02-19 09:29:07",100000.0,COMPLETED,OVO
+30543,nugroho tri hanantyo,PWA,"100 Toren untuk Pesantren, Masjid, dan Mushola di Indonesia","2021-02-19 09:39:05",100000.0,settlement,bank_transfer
+30544,Harti,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 09:39:47",100000.0,settlement,echannel
+30546,sally citra ramadhini binti amiruddin massani,WEB,Berkah Dengan Sedekah,"2021-02-19 09:46:55",150000.0,settlement,Mandiri Yayasan Mizan Amanah
+30549,Ending Cahyadi,WEB,Berkah Dengan Sedekah,"2021-02-19 10:18:05",50000.0,settlement,BCA Yayasan Mizan Amanah
+30550,Muhammad Gary Iskak Richa Iskak Adilla Ravisha Iskak Taqiya Mikayla Iskak,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-19 10:22:02",800000.0,settlement,BCA Yayasan Mizan Amanah
+30551,Sumadi Fernanda,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-19 10:24:10",150000.0,settlement,BCA Yayasan Mizan Amanah
+30555,Hesti Nurkasanah,PWA,Berkah Dengan Sedekah,"2021-02-19 10:42:48",500000.0,settlement,bank_transfer
+30557,Hamba Allah,PWA,Infaq Sedekah,"2021-02-19 11:16:22",100000.0,settlement,bank_transfer
+30558,adita,Android,Harapan Dede Memberi Mahkota Untuk Orang Tua Di Surga,"2021-02-19 11:25:01",100000.0,settlement,echannel
+30559,Chairunissa Nindita,Web,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 11:26:49",100000.0,settlement,bank_transfer
+30561,hamba allah,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-19 11:40:01",300000.0,settlement,bank_transfer
+30564,Rusminah Toyib,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-19 11:56:37",100000.0,settlement,bank_transfer
+30570,Hamba Allah,Web,PANTI YATIM DAN DHUAFA PEJOMPONGAN,"2021-02-19 13:33:23",500000.0,settlement,bank_transfer
+30571,Novita Sari,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 13:51:11",50000.0,settlement,bank_transfer
+30580,YANUARTO BIN EMIR RIZZA,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 14:17:07",200000.0,settlement,BCA Yayasan Mizan Amanah
+30582,Utari K,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-19 14:18:39",200000.0,settlement,bank_transfer
+30585,novi yulianti,Android,Berkah Dengan Sedekah,"2021-02-19 14:37:13",100000.0,settlement,bank_transfer
+30588,Fredy hendro,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-19 14:47:13",500000.0,settlement,BCA Yayasan Mizan Amanah
+30589,YULI YUSMARA,WEB,Berkah Dengan Sedekah,"2021-02-19 15:18:39",100000.0,settlement,BCA Yayasan Mizan Amanah
+30590,YULI YUSMARA,WEB,Berkah Dengan Sedekah,"2021-02-19 15:26:47",100000.0,settlement,BCA Yayasan Mizan Amanah
+30592,Johanes Sulistiadi + kiki(istri),WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-19 15:47:34",100000.0,settlement,BCA Yayasan Mizan Amanah
+30593,hamsmsk,PWA,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK BARAT,"2021-02-19 15:55:53",300000.0,settlement,bank_transfer
+30596,Evy Yuliasari,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 16:07:15",200000.0,settlement,bank_transfer
+30597,Renaldi Perdana Kesuma,PWA,Infaq Sedekah,"2021-02-19 16:20:07",500000.0,settlement,bank_transfer
+30598,Sri Hastuti,WEB,PANTI YATIM DAN DHUAFA PEJOMPONGAN,"2021-02-19 16:21:25",150000.0,settlement,BNI Yayasan Mizan Amanah
+30599,Sri Hastuti,WEB,PANTI YATIM DAN DHUAFA PEJOMPONGAN,"2021-02-19 16:25:26",200000.0,settlement,BNI Yayasan Mizan Amanah
+30600,Maryani,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-19 16:26:53",200000.0,settlement,BCA Yayasan Mizan Amanah
+30606,Aprita damayanti,PWA,Infaq Sedekah,"2021-02-19 16:43:39",50000.0,settlement,bank_transfer
+30608,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-19 16:46:55",4.0,COMPLETED,OVO
+30609,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-19 16:48:15",100.0,SUCCESS_COMPLETED,LINKAJA
+30610,Endorse Marketing,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-19 16:51:01",5.0,COMPLETED,OVO
+30611,Endorse Marketing,PWA,PANTI ASUHAN YATIM DAN DHUAFA SOLO,"2021-02-19 16:52:04",10.0,COMPLETED,OVO
+30614,Joko sambodo,PWA,Zakat Profesi,"2021-02-19 17:15:56",100000.0,settlement,echannel
+30615,Tria Ludmila,PWA,Infaq Sedekah,"2021-02-19 18:17:29",125000.0,settlement,bank_transfer
+30616,Asti,PWA,Zakat Barang Temuan,"2021-02-19 19:03:05",3000.0,PAID,DANA
+30617,Asti,PWA,Zakat Emas Perak dan Uang,"2021-02-19 19:04:02",3000.0,PAID,DANA
+30618,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-02-19 19:04:21",3000.0,PAID,DANA
+30619,Asti,PWA,Zakat Perniagaan,"2021-02-19 19:04:44",3000.0,PAID,DANA
+30620,Asti,PWA,Zakat Akhir Tahun,"2021-02-19 19:05:12",3000.0,PAID,DANA
+30621,Asti,PWA,Zakat Profesi,"2021-02-19 19:05:33",3000.0,PAID,DANA
+30622,Asti,PWA,Nazar,"2021-02-19 19:06:10",3000.0,PAID,DANA
+30623,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-19 19:06:49",3000.0,PAID,DANA
+30624,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-19 19:07:33",3000.0,PAID,DANA
+30625,Asti,PWA,Berkah Dengan Sedekah,"2021-02-19 19:07:58",3000.0,PAID,DANA
+30626,Asti,PWA,Infaq Sedekah,"2021-02-19 19:08:20",3000.0,PAID,DANA
+30628,Yoga Ardy,Android,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-19 20:38:19",100000.0,settlement,bank_transfer
+30629,Aap,PWA,PANTI ASUHAN YATIM DAN DHUAFA SURABAYA TENGGILIS,"2021-02-19 21:33:23",100000.0,settlement,bank_transfer
+30631,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-19 22:15:43",10000.0,settlement,bank_transfer
+30637,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-19 23:35:24",5000.0,COMPLETED,OVO
+30638,Septania Putri Widyawardhani,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-19 23:40:33",100000.0,settlement,gopay
+30639,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-20 05:51:28",5000.0,SUCCESS_COMPLETED,LINKAJA
+30646,"Nepi Puji Astuti,",WEB,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK KKO,"2021-02-20 10:44:20",50000.0,settlement,BCA Yayasan Mizan Amanah
+30647,Moch. Dimas,WEB,Berkah Dengan Sedekah,"2021-02-20 11:06:06",250000.0,settlement,BCA Yayasan Mizan Amanah
+30648,hamba Allah,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-20 16:32:46",300000.0,settlement,bank_transfer
+30659,Ami reza saputra,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-20 21:55:42",100000.0,settlement,bank_transfer
+30665,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Infaq Sedekah,"2021-02-21 05:26:50",100000.0,settlement,bank_transfer
+30666,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-21 05:37:08",5000.0,SUCCESS_COMPLETED,LINKAJA
+30677,D,PWA,Kepedulian Terhadap Disabilitas Indonesia,"2021-02-21 09:44:41",50000.0,settlement,gopay
+30682,Dimas,PWA,Berkah Dengan Sedekah,"2021-02-21 18:29:31",50000.0,settlement,gopay
+30683,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-21 19:23:44",1000.0,COMPLETED,OVO
+30684,Iwan,PWA,Kepedulian Terhadap Disabilitas Indonesia,"2021-02-21 19:45:18",10000.0,settlement,gopay
+30685,Levi,PWA,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-02-21 22:15:42",5000.0,settlement,gopay
+30686,Developer,WEB,Infaq Sedekah,"2021-02-21 23:13:57",1.0,COMPLETED,OVO
+30687,Developer,Web,Infaq Sedekah,"2021-02-21 23:15:05",1.0,COMPLETED,OVO
+30690,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI 2,"2021-02-22 04:57:49",100000.0,settlement,bank_transfer
+30692,Sofi,PWA,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-02-22 05:17:13",500000.0,settlement,echannel
+30693,Alif Setyo Pambudi,PWA,Wakaf Mesjid Rest Area Ummat,"2021-02-22 05:25:53",50000.0,settlement,echannel
+30694,Beby,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 05:26:06",100000.0,settlement,echannel
+30697,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-22 05:55:17",5000.0,SUCCESS_COMPLETED,LINKAJA
+30698,Benny Pratama,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-22 06:05:30",1500.0,COMPLETED,OVO
+30699,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-22 06:07:08",100000.0,settlement,bank_transfer
+30700,Eko Santoso,PWA,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-22 07:13:16",5000.0,settlement,gopay
+30702,Ari,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-22 07:41:32",10000.0,settlement,bank_transfer
+30703,"Sudarsono, ST",WEB,Berkah Dengan Sedekah,"2021-02-22 08:32:09",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+30704,Woellanshop,WEB,Berkah Dengan Sedekah,"2021-02-22 08:36:09",50000.0,settlement,BCA Yayasan Mizan Amanah
+30705,Ganni Hisam Said,WEB,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-22 08:39:11",50000.0,settlement,BCA Yayasan Mizan Amanah
+30706,Desi dan Yusuf,WEB,Berkah Dengan Sedekah,"2021-02-22 08:46:38",150000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+30709,Agus Setiawan,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 10:28:20",1.0,COMPLETED,OVO
+30712,Eric rahman januar,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 10:36:47",100000.0,settlement,bank_transfer
+30713,Silvy Rauf,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 10:42:01",100000.0,settlement,bank_transfer
+30714,Eza Rostiyana,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 10:56:50",100000.0,settlement,gopay
+30715,Tisa Artistyarini,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 10:58:33",200000.0,settlement,echannel
+30716,Utari K,PWA,"Bantu Kang Uwes Mandiri, Kehilangan Kedua Kakinya Saat Bekerja","2021-02-22 11:06:58",200000.0,settlement,bank_transfer
+30717,Ispriwiati Fatma,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 11:22:35",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+30718,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 11:22:39",1.0,COMPLETED,OVO
+30719,Sheliana Basrani,WEB,Berkah Dengan Sedekah,"2021-02-22 11:25:36",50000.0,settlement,Mandiri Yayasan Mizan Amanah
+30720,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 11:26:29",1.0,COMPLETED,OVO
+30721,Ulfa,WEB,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-22 11:27:56",150238.0,settlement,Mandiri Yayasan Mizan Amanah
+30722,Aulia mira sari,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 11:30:01",200000.0,settlement,BRI Yayasan Mizan Amanah
+30723,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 11:54:16",1.0,COMPLETED,OVO
+30724,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 11:58:18",1.0,COMPLETED,OVO
+30725,Alan,WEB,Berkah Dengan Sedekah,"2021-02-22 12:26:03",150000.0,settlement,BCA Yayasan Mizan Amanah
+30729,Oscar Baadilla,Android,PANTI ASUHAN YATIM & DHUAFA SURABAYA DUKUH KUPANG,"2021-02-22 13:04:20",100000.0,settlement,bank_transfer
+30730,Arka Parandita,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 13:30:40",200000.0,settlement,bank_transfer
+30736,Endorse Marketing,Web,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-22 14:25:43",4.0,settlement,gopay
+30737,Endorse Marketing,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-22 14:30:50",2.0,PAID,DANA
+30738,Aa,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-22 15:01:13",1.0,COMPLETED,OVO
+30739,Aa,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-22 15:11:24",1.0,COMPLETED,OVO
+30741,selvi,WEB,Berkah Dengan Sedekah,"2021-02-22 15:15:04",300000.0,settlement,BCA Yayasan Mizan Amanah
+30751,Darlis,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-22 15:56:22",25000.0,PAID,DANA
+30757,Hamba Allah,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-22 16:27:09",1.0,COMPLETED,OVO
+30758,Hamba Allah,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-22 16:30:48",1.0,COMPLETED,OVO
+30760,rendi prasetyo,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-22 16:41:24",20000.0,COMPLETED,OVO
+30761,Hamba Allah,Web,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-22 16:42:48",1.0,COMPLETED,OVO
+30762,rendi prasetyo,Android,Patungan Alat Transfortasi buat Guru Ngaji di Pelosok Negeri,"2021-02-22 16:44:07",10000.0,COMPLETED,OVO
+30764,Hamba Allah,Android,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-22 16:47:01",1.0,COMPLETED,OVO
+30765,Hamba Allah,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-22 16:49:28",1.0,COMPLETED,OVO
+30766,Hamba Allah,Android,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-22 16:50:59",1.0,COMPLETED,OVO
+30771,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-22 19:17:51",1000.0,COMPLETED,OVO
+30772,Rikto,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 19:50:57",100000.0,settlement,bank_transfer
+30773,Stiefanny sekar wulan,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-22 21:00:11",200000.0,settlement,bank_transfer
+30779,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-23 06:23:44",5000.0,SUCCESS_COMPLETED,LINKAJA
+30781,Arbhi Arioso,Android,PANTI ASUHAN YATIM DAN DHUAFA CIBUBUR,"2021-02-23 06:50:55",10000.0,settlement,gopay
+30789,Indah Fitri yani,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 08:52:52",100000.0,settlement,bank_transfer
+30792,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-23 09:03:33",1.0,COMPLETED,OVO
+30796,Laylis Rhodhotul Jannah,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 09:20:08",50000.0,SUCCESS_COMPLETED,LINKAJA
+30797,Sherlyasp,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 09:26:33",50000.0,COMPLETED,OVO
+30804,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-23 09:59:22",10.0,COMPLETED,OVO
+30805,Aa,IOS,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-23 10:03:26",10.0,COMPLETED,OVO
+30814,Agus Setiawan,WEB,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-23 10:11:58",1.0,COMPLETED,OVO
+30818,hokky akhmad anshari,WEB,Berkah Dengan Sedekah,"2021-02-23 10:26:41",100000.0,settlement,BNI Yayasan Mizan Amanah
+30819,Agus Setiawan,WEB,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-02-23 10:27:22",1.0,COMPLETED,OVO
+30820,Kati ristini,WEB,Infaq Sedekah,"2021-02-23 10:29:52",100000.0,settlement,OFFLINE_DONATION
+30821,Budi hartanto,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 11:06:38",100000.0,settlement,bank_transfer
+30824,ichwan novendi,Android,Berkah Dengan Sedekah,"2021-02-23 11:36:28",500000.0,settlement,bank_transfer
+30832,Hamba Allah,Web,Berkah Dengan Sedekah,"2021-02-23 11:58:49",4.0,settlement,gopay
+30836,Dicky Ardian,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 13:45:48",100000.0,settlement,bank_transfer
+30840,Toni Setiana,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 14:23:06",100000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+30856,NN,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 16:47:08",100000.0,settlement,gopay
+30869,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-23 18:54:49",1000.0,COMPLETED,OVO
+30870,Hamba Allah,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 19:19:20",40997.0,settlement,bank_transfer
+30871,Sigit pamungkas,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-23 19:22:18",100000.0,settlement,gopay
+30872,endah,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-23 20:20:01",500000.0,settlement,bank_transfer
+30874,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-24 02:06:44",10000.0,settlement,bank_transfer
+30875,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-24 04:45:13",5000.0,SUCCESS_COMPLETED,LINKAJA
+30881,Eman Sulaeman,Android,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-24 05:12:12",50000.0,settlement,gopay
+30882,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-24 05:31:12",2000.0,COMPLETED,OVO
+30883,Hamba Allah,Android,Zakat Profesi,"2021-02-24 05:35:04",200000.0,settlement,bank_transfer
+30885,Iman Setiawan,PWA,Infaq Sedekah,"2021-02-24 05:44:04",200000.0,settlement,bank_transfer
+30897,SUPARYANTO,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-24 09:30:51",200000.0,PAID,DANA
+30898,BAMBANG SUJATMIKO,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-24 09:45:10",500.0,settlement,gopay
+30899,Ainidq Fahraafni,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-24 10:54:29",5000.0,settlement,gopay
+30900,Dira Mesrizha,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-24 10:57:34",300000.0,settlement,bank_transfer
+30909,Guntar Kusuma,Web,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-24 11:18:27",100000.0,settlement,bank_transfer
+30910,Fahmi Nur Maulana,WEB,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-24 11:47:33",100000.0,settlement,BNI Yayasan Mizan Amanah
+30919,Rini APD,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-24 13:16:33",350000.0,settlement,Mandiri Yayasan Mizan Amanah
+30937,Aulia Mira Sari,WEB,BANTU PENUHI SARANA PRASARANA SANTRI PENGHAFAL ALQURAN,"2021-02-24 16:16:50",200000.0,settlement,BCA Yayasan Mizan Amanah
+30938,Sri Hastuti,WEB,PANTI YATIM DAN DHUAFA PEJOMPONGAN,"2021-02-24 16:23:01",150000.0,settlement,BNI Yayasan Mizan Amanah
+30944,Taufiq,Android,Berkah Dengan Sedekah,"2021-02-24 18:03:47",1.0,COMPLETED,OVO
+30945,Taufiq,Android,Berkah Dengan Sedekah,"2021-02-24 18:05:54",100.0,COMPLETED,OVO
+30947,dwi Purwandari,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-24 20:22:30",100000.0,COMPLETED,OVO
+30953,Eman Sulaeman,Android,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-25 04:56:26",100000.0,settlement,gopay
+30954,Astri Yuniar,Android,"Raffi Sakit Kelenjar Getah Bening, 2 Tahun Belum Berobat Optimal","2021-02-25 05:36:00",100000.0,settlement,gopay
+30956,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-25 05:43:30",5000.0,SUCCESS_COMPLETED,LINKAJA
+30959,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-25 05:49:15",5000.0,SUCCESS_COMPLETED,LINKAJA
+30963,PUTRI RAHMA AMALIA,PWA,Infaq Sedekah,"2021-02-25 08:36:13",100000.0,settlement,gopay
+30964,Hamba Allah,WEB,Infaq Sedekah,"2021-02-25 08:36:27",200000.0,settlement,BCA Yayasan Mizan Amanah
+30965,Bandoro Mega Putra,WEB,Berkah Dengan Sedekah,"2021-02-25 08:45:15",100000.0,settlement,BCA Yayasan Mizan Amanah
+30966,BU PENI H,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-25 08:51:30",250000.0,settlement,Mandiri Yayasan Mizan Amanah
+30967,Rizky Fadilah,PWA,Zakat Profesi,"2021-02-25 09:06:01",800000.0,settlement,bank_transfer
+30972,Tiyas,Android,Zakat Profesi,"2021-02-25 09:51:18",125000.0,settlement,bank_transfer
+30973,Diah fitriandriani,Web,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-25 10:10:48",50000.0,PAID,DANA
+30974,Eva furoidah,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-25 10:20:42",200000.0,settlement,bank_transfer
+30977,Dwi Prastiana,PWA,Infaq Sedekah,"2021-02-25 10:24:21",200000.0,PAID,DANA
+30980,Haryo,WEB,Berkah Dengan Sedekah,"2021-02-25 10:49:11",300000.0,settlement,BCA Yayasan Mizan Amanah
+30991,Subhan ikbal,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-25 11:45:41",100000.0,settlement,bank_transfer
+30996,Endorse Marketing,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-25 12:06:32",5.0,COMPLETED,OVO
+30999,Hamba Allah,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-25 13:02:51",4.0,COMPLETED,OVO
+31015,Nindi Oktavia,WEB,Infaq Sedekah,"2021-02-25 17:01:17",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+31018,Happy,Web,Infaq Sedekah,"2021-02-25 17:54:34",350000.0,settlement,bank_transfer
+31019,Happy,Web,Berkah Dengan Sedekah,"2021-02-25 17:56:29",350000.0,settlement,bank_transfer
+31021,iqbal wiratma,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-25 18:34:48",1000000.0,settlement,bank_transfer
+31024,Arbhi Arioso,Android,PANTI ASUHAN YATIM DAN DHUAFA CIBUBUR,"2021-02-25 19:01:18",5000.0,COMPLETED,OVO
+31029,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-25 19:25:36",1000.0,COMPLETED,OVO
+31033,M Febriansyah Ali,Android,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-02-25 21:12:26",10000.0,settlement,bank_transfer
+31035,Hamba ALLAH SWT,PWA,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK KKO,"2021-02-25 23:23:56",250000.0,settlement,bank_transfer
+31040,Hamba Allah,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-26 04:45:03",148625.0,settlement,bank_transfer
+31045,Bunda Iryan,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 04:56:53",100000.0,SUCCESS_COMPLETED,LINKAJA
+31049,Tantri,Web,Berkah Dengan Sedekah,"2021-02-26 05:07:43",250000.0,settlement,BRI
+31051,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-26 05:27:03",100000.0,settlement,bank_transfer
+31052,Ari,Android,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-26 05:27:28",10000.0,settlement,bank_transfer
+31053,Zacky,PWA,Infaq Sedekah,"2021-02-26 05:34:41",100000.0,settlement,bank_transfer
+31054,Heru Yulianto,PWA,Zakat Profesi,"2021-02-26 05:47:32",211000.0,settlement,bank_transfer
+31055,Sanggih saputri meiyani,PWA,Infaq Sedekah,"2021-02-26 05:57:17",10000.0,settlement,bank_transfer
+31056,Sukamto,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-26 05:58:49",250000.0,settlement,bank_transfer
+31061,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-26 06:13:38",5000.0,SUCCESS_COMPLETED,LINKAJA
+31065,Nn,PWA,Infaq Sedekah,"2021-02-26 06:14:52",100000.0,settlement,bank_transfer
+31067,Harsudiono Setio Berlianto,PWA,Patungan HP Buat Anak-anak Yatim Belajar Daring di 47 Panti dan Pelosok Negeri,"2021-02-26 06:17:20",100000.0,COMPLETED,OVO
+31068,Harsudiono Setio Berlianto,PWA,Infaq Sedekah,"2021-02-26 06:18:13",100000.0,COMPLETED,OVO
+31069,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 06:18:39",10000.0,settlement,bank_transfer
+31070,Harsudiono Setio Berlianto,PWA,Zakat Profesi,"2021-02-26 06:23:53",100000.0,COMPLETED,OVO
+31073,Gatot,PWA,Infaq Sedekah,"2021-02-26 06:40:47",100000.0,settlement,bank_transfer
+31081,RAMADENY,PWA,Zakat Profesi,"2021-02-26 07:09:43",200000.0,settlement,bank_transfer
+31083,RAMADENY,PWA,Berkah Dengan Sedekah,"2021-02-26 07:13:14",100000.0,settlement,bank_transfer
+31084,Novi,PWA,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-26 07:14:28",160000.0,SUCCESS_COMPLETED,LINKAJA
+31085,Syach'am Fiqih,Android,Berkah Dengan Sedekah,"2021-02-26 07:38:00",100000.0,settlement,bank_transfer
+31086,Asti,PWA,Zakat Barang Temuan,"2021-02-26 07:41:35",3000.0,PAID,DANA
+31087,Asti,PWA,Zakat Emas Perak dan Uang,"2021-02-26 07:41:54",3000.0,PAID,DANA
+31088,Asti,PWA,Zakat Perniagaan,"2021-02-26 07:42:17",3000.0,PAID,DANA
+31089,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-02-26 07:42:39",3000.0,PAID,DANA
+31090,Asti,PWA,Zakat Akhir Tahun,"2021-02-26 07:43:01",3000.0,PAID,DANA
+31091,Asti,PWA,Zakat Profesi,"2021-02-26 07:43:27",3000.0,PAID,DANA
+31092,Asti,PWA,Nazar,"2021-02-26 07:43:48",3000.0,PAID,DANA
+31093,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-26 07:44:21",3000.0,PAID,DANA
+31094,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-26 07:44:45",3000.0,PAID,DANA
+31095,Asti,PWA,Berkah Dengan Sedekah,"2021-02-26 07:45:12",3000.0,PAID,DANA
+31096,Asti,PWA,Infaq Sedekah,"2021-02-26 07:46:01",3000.0,PAID,DANA
+31097,Gina tiviana s,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-26 08:02:31",117500.0,settlement,bank_transfer
+31100,Ais Eykhma Setiadi,Web,Infaq Sedekah,"2021-02-26 08:21:34",174000.0,settlement,bank_transfer
+31101,daniel,PWA,Infaq Sedekah,"2021-02-26 08:36:24",20000.0,settlement,bank_transfer
+31110,NN,PWA,Infaq Sedekah,"2021-02-26 09:09:16",100000.0,SUCCESS_COMPLETED,LINKAJA
+31112,Gusti Noor Zuraidah,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 09:25:51",1000000.0,settlement,BCA Yayasan Mizan Amanah
+31113,Pipit Fitriani,WEB,Berkah Dengan Sedekah,"2021-02-26 09:37:38",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+31116,Idzni,PWA,Infaq Sedekah,"2021-02-26 09:39:31",25000.0,settlement,bank_transfer
+31117,ADI ATMADI ANANDA SOULTHAN,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 09:54:58",700000.0,settlement,BCA Yayasan Mizan Amanah
+31118,Irvan Firmansyah,PWA,Zakat Profesi,"2021-02-26 09:56:37",150000.0,settlement,bank_transfer
+31122,Taufik Fajar Ramadhan,WEB,Berkah Dengan Sedekah,"2021-02-26 10:08:09",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+31123,perdana kusuma,WEB,Infaq Sedekah,"2021-02-26 10:08:15",100000.0,settlement,BCA Yayasan Mizan Amanah
+31124,Nila Kuntari,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-26 10:12:05",70000.0,settlement,BCA Yayasan Mizan Amanah
+31125,Bayu Wahyudi,WEB,Berkah Dengan Sedekah,"2021-02-26 10:13:28",500000.0,settlement,BCA Yayasan Mizan Amanah
+31126,Yani,WEB,BANTU PENUHI SARANA PRASARANA SANTRI PENGHAFAL ALQURAN,"2021-02-26 10:16:06",100000.0,settlement,BCA Yayasan Mizan Amanah
+31127,Gusti Noor Zuraidah,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 10:18:09",1000000.0,settlement,BCA Yayasan Mizan Amanah
+31133,Siska,PWA,PANTI ASUHAN YATIM DAN DHUAFA CIPAYUNG,"2021-02-26 10:33:39",200000.0,settlement,bank_transfer
+31140,Benny Pratama,PWA,PAKET SEMBAKO UNTUK KAUM DHUAFA YAN TERDAMPAK COVID-19,"2021-02-26 10:46:24",2000.0,COMPLETED,OVO
+31148,Lailia Mutmainah,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-26 11:01:52",100000.0,settlement,bank_transfer
+31150,NAFILLAH ACHMAD,WEB,Infaq Sedekah,"2021-02-26 11:05:48",50000.0,settlement,BCA Yayasan Mizan Amanah
+31154,Yodie Mirawan,Web,Berkah Dengan Sedekah,"2021-02-26 11:14:16",100000.0,settlement,gopay
+31157,Budyantoro,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 11:31:59",150000.0,settlement,BCA Yayasan Mizan Amanah
+31159,Nauli,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 11:34:27",750000.0,COMPLETED,OVO
+31160,Nauli,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 11:36:44",550000.0,settlement,bank_transfer
+31162,Oji,Android,PANTI ASUHAN YATIM DAN DHUAFA CIDODOL,"2021-02-26 11:48:33",300000.0,settlement,bank_transfer
+31163,Riza Boris,PWA,PANTI ASUHAN YATIM DAN DHUAFA BINTARO,"2021-02-26 11:48:45",1000000.0,settlement,bank_transfer
+31164,Deka,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 11:50:30",500000.0,SUCCESS_COMPLETED,LINKAJA
+31173,Alhakim Irsyad,PWA,"Ludes Dilahap si Jago Merah, Yuk! Patungan Bangun Lagi Rumah Mak Uka","2021-02-26 12:37:15",200000.0,settlement,bank_transfer
+31174,Rauf fatih athallah,PWA,Zakat Profesi,"2021-02-26 12:37:42",220000.0,settlement,bank_transfer
+31175,Febya Achmad Rizky,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 13:24:48",100000.0,settlement,BCA Yayasan Mizan Amanah
+31178,Lis Purwandi,Web,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-02-26 13:45:52",100000.0,settlement,bank_transfer
+31179,Della,Web,Berkah Dengan Sedekah,"2021-02-26 13:54:55",50000.0,settlement,BNI
+31181,Rini,PWA,PANTI ASUHAN YATIM DAN DHUAFA JAGAKARSA,"2021-02-26 14:15:36",126000.0,settlement,bank_transfer
+31183,Iwan Yosika,Android,PANTI ASUHAN YATIM DAN DHUAFA KALIDERES,"2021-02-26 15:22:08",150000.0,settlement,bank_transfer
+31185,Rusminah Toyib,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-02-26 15:31:35",100000.0,settlement,bank_transfer
+31187,Hamba Allah,PWA,PANTI ASUHAN YATIM DAN DHUAFA POJOK CIMAHI,"2021-02-26 15:49:23",50000.0,settlement,bank_transfer
+31188,Tari,WEB,Berkah Dengan Sedekah,"2021-02-26 16:03:15",120000.0,settlement,BCA Yayasan Mizan Amanah
+31192,Nepi Puji Astuti,WEB,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK BARAT,"2021-02-26 16:20:06",50000.0,settlement,BCA Yayasan Mizan Amanah
+31195,Ifthar,WEB,Berkah Dengan Sedekah,"2021-02-26 16:49:54",200000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+31203,asrianingsih,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-26 17:47:06",25000.0,COMPLETED,OVO
+31204,syifa nurfianti,Android,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-02-26 17:48:54",20000.0,settlement,bank_transfer
+31205,syifa nurfianti,Android,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 17:51:52",30000.0,settlement,bank_transfer
+31212,Muhammad Iqbal,PWA,Berkah Dengan Sedekah,"2021-02-26 18:58:19",100000.0,PAID,DANA
+31214,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-26 19:30:43",50000.0,settlement,gopay
+31218,Rudy Adil Rangkuty,PWA,Infaq Sedekah,"2021-02-26 19:57:34",200000.0,settlement,bank_transfer
+31221,Darlis,PWA,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-02-26 21:16:19",15000.0,PAID,DANA
+31228,Renia Ismulyanti,Android,Zakat Profesi,"2021-02-26 22:55:19",212500.0,settlement,MANDIRI
+31229,Hamba Allah,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-26 23:46:53",50000.0,settlement,bank_transfer
+31230,Fitri Nilasari,PWA,Zakat Akhir Tahun,"2021-02-26 23:59:35",170000.0,settlement,bank_transfer
+31235,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-02-27 05:23:15",100000.0,settlement,bank_transfer
+31236,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-27 05:49:27",5000.0,SUCCESS_COMPLETED,LINKAJA
+31238,Hamba Allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-27 05:51:46",110000.0,PAID,DANA
+31240,Wahyu Dwi Prabowo,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-02-27 07:39:22",20000.0,COMPLETED,OVO
+31242,Tika,Android,Zakat Profesi,"2021-02-27 09:23:16",100000.0,settlement,BNI
+31243,Rico,PWA,Zakat Profesi,"2021-02-27 09:40:32",111200.0,settlement,bank_transfer
+31247,Dimas,PWA,Berkah Dengan Sedekah,"2021-02-27 11:52:49",100000.0,settlement,bank_transfer
+31251,Chandra Hadi Saputra,PWA,Zakat Profesi,"2021-02-27 12:45:03",195000.0,settlement,bank_transfer
+31258,Khalid Saleem,WEB,Infaq Sedekah,"2021-02-27 17:18:58",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+31259,unik rutati wheny,WEB,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-27 17:22:12",700000.0,settlement,Mandiri Yayasan Mizan Amanah
+31260,Fitri Fulasari,WEB,Infaq Sedekah,"2021-02-27 17:26:41",100000.0,settlement,OFFLINE_DONATION
+31262,Nurhalimah Sari Lubis,WEB,Infaq Sedekah,"2021-02-27 17:33:10",20000.0,settlement,BCA Yayasan Mizan Amanah
+31267,Edi purwanto,PWA,Zakat Profesi,"2021-02-27 19:27:45",250000.0,settlement,gopay
+31269,Putu Berly Calvina Izumi,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-02-27 22:16:27",100000.0,settlement,bank_transfer
+31270,Sugih,PWA,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-02-27 22:17:30",100000.0,settlement,bank_transfer
+31271,Putu Berly Calvina Izumi,PWA,Infaq Sedekah,"2021-02-27 22:21:37",100000.0,settlement,bank_transfer
+31272,Sugih,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-27 22:24:21",100000.0,settlement,bank_transfer
+31273,Putu Berly Calvina Izumi,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-02-27 22:25:28",50000.0,settlement,bank_transfer
+31274,Sugih,PWA,PATUNGAN RUMAH UNTUK ANAK-ANAK YATIM,"2021-02-27 22:35:27",100000.0,settlement,bank_transfer
+31277,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-02-27 22:40:55",1000.0,COMPLETED,OVO
+31280,Eras Maska,PWA,PANTI ASUHAN YATIM DAN DHUAFA SALIHARA,"2021-02-27 23:10:44",300000.0,settlement,bank_transfer
+31281,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-27 23:22:06",10000.0,settlement,bank_transfer
+31282,eko sulistyono,Web,Zakat Profesi,"2021-02-27 23:34:34",20000.0,COMPLETED,OVO
+31283,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-02-28 03:54:07",10000.0,settlement,bank_transfer
+31286,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-02-28 05:30:45",100000.0,settlement,bank_transfer
+31288,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-02-28 05:48:10",5000.0,SUCCESS_COMPLETED,LINKAJA
+31292,Maya,PWA,Infaq Sedekah,"2021-02-28 08:21:12",200000.0,settlement,bank_transfer
+31298,eko wahyudi,Android,Berkah Dengan Sedekah,"2021-02-28 12:32:49",100000.0,SUCCESS_COMPLETED,LINKAJA
+31302,Pa Baihaki,WEB,Berkah Dengan Sedekah,"2021-02-28 15:13:08",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+31303,Mochammad Irsan sofyan,WEB,Berkah Dengan Sedekah,"2021-02-28 15:34:22",500000.0,settlement,BCA Yayasan Mizan Amanah
+31304,Mochammad Irsan sofyan,WEB,Berkah Dengan Sedekah,"2021-02-28 15:36:18",250000.0,settlement,BCA Yayasan Mizan Amanah
+31310,Muhamad Veri Anggoro,Web,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-02-28 18:42:49",250000.0,SUCCESS_COMPLETED,LINKAJA
+31318,Nasyeilla Adelia,PWA,Infaq Sedekah,"2021-02-28 21:35:52",100000.0,settlement,bank_transfer
