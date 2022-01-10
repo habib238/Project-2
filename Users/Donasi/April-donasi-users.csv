@@ -1,0 +1,559 @@
+"ID","name","platform","judul","tanggal","total_donasi","status","metode_pembayaran"
+32738,Ktya,PWA,Infaq Sedekah,"2021-04-01 05:03:00",5000.0,settlement,gopay
+32740,Sanggih saputri meiyani,PWA,Nazar,"2021-04-01 05:36:48",10000.0,settlement,bank_transfer
+32741,hamba Allah,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-04-01 05:44:23",10000.0,settlement,bank_transfer
+32742,Benny Pratama,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-04-01 05:56:43",2000.0,COMPLETED,OVO
+32743,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-01 05:59:02",5000.0,SUCCESS_COMPLETED,LINKAJA
+32744,Moch Deny Purnama,Android,PANTI ASUHAN YATIM DAN DHUAFA JAGAKARSA,"2021-04-01 06:02:52",100000.0,settlement,bank_transfer
+32746,Lis Purwandi,PWA,Patungan Modal untuk Bibit Pertanian Wakaf di Kaki Gunung Salak,"2021-04-01 07:01:01",50000.0,settlement,bank_transfer
+32753,Mohamad Akbar,PWA,Berkah Dengan Sedekah,"2021-04-01 10:29:42",50000.0,settlement,bank_transfer
+32759,akbarwidias,Android,PANTI ASUHAN YATIM DAN DHUAFA SARIJADI BANDUNG,"2021-04-01 11:54:01",100000.0,settlement,bank_transfer
+32760,Dyah Dewi,PWA,Zakat Profesi,"2021-04-01 11:57:34",1500000.0,settlement,echannel
+32764,Antung miranti yuliana,PWA,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK KKO,"2021-04-01 13:00:51",100000.0,settlement,bank_transfer
+32768,Samsiati,PWA,PANTI ASUHAN YATIM DAN DHUAFA KALISARI,"2021-04-01 14:39:34",150000.0,settlement,echannel
+32773,Tika Nurlaela,Android,Zakat Profesi,"2021-04-01 16:45:01",125000.0,settlement,bank_transfer
+32780,Claudia ayunda,PWA,Zakat Profesi,"2021-04-01 18:38:40",100000.0,PAID,DANA
+32787,Agung Is Hartono,PWA,PANTI ASUHAN YATIM DAN DHUAFA PANDU RAYA,"2021-04-02 00:44:09",40000.0,settlement,bank_transfer
+32789,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-04-02 05:05:09",150000.0,settlement,gopay
+32794,pratiwi,PWA,Infaq Sedekah,"2021-04-02 05:37:04",20000.0,settlement,bank_transfer
+32795,Eman Sulaeman,Android,PATUNGAN RUMAH UNTUK ANAK-ANAK YATIM,"2021-04-02 05:40:04",100000.0,settlement,gopay
+32796,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-04-02 06:11:06",100000.0,settlement,bank_transfer
+32797,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-02 06:41:56",5000.0,SUCCESS_COMPLETED,LINKAJA
+32798,Gatot,PWA,Infaq Sedekah,"2021-04-02 06:46:49",200000.0,settlement,bank_transfer
+32799,Alm Soepardji,PWA,Infaq Sedekah,"2021-04-02 06:48:17",100000.0,settlement,bank_transfer
+32800,Tria Ludmila,PWA,Infaq Sedekah,"2021-04-02 07:21:46",100000.0,settlement,bank_transfer
+32801,Rini,PWA,PANTI ASUHAN YATIM DAN DHUAFA JAGAKARSA,"2021-04-02 07:53:50",127000.0,settlement,bank_transfer
+32802,abdul hafez hidayat,Android,Zakat Profesi,"2021-04-02 08:04:07",500000.0,settlement,echannel
+32805,Mizan Amanah,PWA,Zakat Profesi,"2021-04-02 08:44:23",200000.0,settlement,bank_transfer
+32806,daniel,PWA,Infaq Sedekah,"2021-04-02 08:53:53",25000.0,settlement,bank_transfer
+32807,Asti,PWA,Zakat Emas Perak dan Uang,"2021-04-02 10:00:46",1000.0,PAID,DANA
+32808,Asti,PWA,Zakat Barang Temuan,"2021-04-02 10:01:29",1000.0,PAID,DANA
+32809,Asti,PWA,Zakat Perniagaan,"2021-04-02 10:01:46",1000.0,PAID,DANA
+32810,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-04-02 10:02:04",1000.0,PAID,DANA
+32811,Asti,PWA,Zakat Akhir Tahun,"2021-04-02 10:02:24",1000.0,PAID,DANA
+32812,Asti,PWA,Zakat Profesi,"2021-04-02 10:02:50",1000.0,PAID,DANA
+32813,Asti,PWA,Nazar,"2021-04-02 10:03:11",1000.0,PAID,DANA
+32814,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-02 10:03:37",1000.0,PAID,DANA
+32815,Tio,PWA,Zakat Profesi,"2021-04-02 10:03:55",200000.0,settlement,bank_transfer
+32816,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-02 10:03:58",1000.0,PAID,DANA
+32817,Asti,PWA,Berkah Dengan Sedekah,"2021-04-02 10:04:18",1000.0,PAID,DANA
+32818,Asti,PWA,Infaq Sedekah,"2021-04-02 10:05:06",1000.0,PAID,DANA
+32819,Tio,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-04-02 10:06:25",300000.0,settlement,bank_transfer
+32820,Sanggih saputri meiyani,PWA,Nazar,"2021-04-02 10:09:40",10000.0,settlement,bank_transfer
+32822,Sanggih saputri meiyani,PWA,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-04-02 10:11:50",10000.0,settlement,bank_transfer
+32823,Alhakim Irsyad,PWA,Berkah Dengan Sedekah,"2021-04-02 10:19:03",200000.0,settlement,bank_transfer
+32824,Alhakim Irsyad,PWA,"Ludes Dilahap si Jago Merah, Yuk! Patungan Bangun Lagi Rumah Mak Uka","2021-04-02 10:22:22",200000.0,settlement,bank_transfer
+32826,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-02 11:10:07",300000.0,settlement,bank_transfer
+32829,Mahya,Android,Zakat Profesi,"2021-04-02 11:31:00",275000.0,settlement,echannel
+32830,Bayu Prasetyo Nugroho,PWA,Infaq Sedekah,"2021-04-02 11:44:30",100000.0,settlement,bank_transfer
+32833,Rusminah Toyib,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-02 12:22:12",100000.0,settlement,bank_transfer
+32838,M Nur Ikhsan,Web,Infaq Sedekah,"2021-04-02 14:31:16",100000.0,settlement,bank_transfer
+32840,Hamba Allah,WEB,Bunga Bangsa Untuk Anak Indonesia,"2021-04-02 14:50:39",5000000.0,settlement,OFFLINE_DONATION
+32841,Djoko Lelono,WEB,Bunga Bangsa Untuk Anak Indonesia,"2021-04-02 14:55:07",1000000.0,settlement,OFFLINE_DONATION
+32842,Moh Nugroho,WEB,Bunga Bangsa Untuk Anak Indonesia,"2021-04-02 14:57:57",100000.0,settlement,OFFLINE_DONATION
+32845,DEVINA UTAMI,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-02 15:53:35",100000.0,settlement,bank_transfer
+32846,Dicky Ardian,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-04-02 16:12:31",100000.0,settlement,bank_transfer
+32848,navindanurqistia,PWA,Penuhi Kebutuhan Yatim Selama Pandemi,"2021-04-02 17:40:25",100000.0,PAID,DANA
+32852,Renaldi Perdana Kesuma,PWA,Infaq Sedekah,"2021-04-02 21:15:51",500000.0,settlement,bank_transfer
+32853,okk,PWA,BANTU PENUHI SARANA PRASARANA SANTRI PENGHAFAL ALQURAN,"2021-04-02 21:43:20",100000.0,settlement,bank_transfer
+32855,Utari K,Web,PANTI ASUHAN YATIM DAN DHUAFA SOLO,"2021-04-02 22:08:12",200000.0,settlement,bank_transfer
+32857,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-02 23:38:26",50000.0,COMPLETED,OVO
+32861,abdul basit,Android,Berkah Dengan Sedekah,"2021-04-03 02:31:38",5000.0,SUCCESS_COMPLETED,LINKAJA
+32862,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-04-03 05:28:02",100000.0,settlement,bank_transfer
+32865,Andrew Duncan,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-03 05:49:29",600000.0,settlement,bank_transfer
+32866,Benny Pratama,PWA,Renovasi Ruangan Untuk Anak-Anak Yatim Penghafal Alquran  di Asrama Banyumas,"2021-04-03 06:01:51",2180.0,COMPLETED,OVO
+32867,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-03 07:21:18",5000.0,SUCCESS_COMPLETED,LINKAJA
+32868,Hamba allah,PWA,Berkah Dengan Sedekah,"2021-04-03 08:25:39",50000.0,settlement,echannel
+32869,Hamba allah,PWA,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-04-03 08:30:10",50000.0,settlement,echannel
+32875,Ami reza saputra,PWA,Infaq Sedekah,"2021-04-03 12:18:14",1000000.0,settlement,bank_transfer
+32881,Fifi wulansari,PWA,Infaq Sedekah,"2021-04-03 16:45:27",100000.0,settlement,bank_transfer
+32883,Dimas,PWA,Berkah Dengan Sedekah,"2021-04-03 17:13:06",50000.0,settlement,bank_transfer
+32886,Muhammad Arief,Android,Bayar Zakat Fitrah Online Untuk Kaum Dhuafa,"2021-04-03 19:29:23",200000.0,settlement,bank_transfer
+32890,Cepy Arya Irawan bin Ondang,PWA,Zakat Profesi,"2021-04-03 19:54:27",200000.0,settlement,bank_transfer
+32908,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-03 23:26:06",2000.0,COMPLETED,OVO
+32917,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI 2,"2021-04-04 04:54:20",100000.0,settlement,gopay
+32919,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-04 05:41:21",5000.0,SUCCESS_COMPLETED,LINKAJA
+32931,udi agus riyadi,Android,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-04-04 10:28:25",50000.0,PAID,DANA
+32944,Maya,PWA,Infaq Sedekah,"2021-04-04 15:21:11",200000.0,settlement,bank_transfer
+32948,Aulia Urrohmah,Android,Infaq Sedekah,"2021-04-04 17:15:10",30000.0,PAID,DANA
+32949,Fitri aryani,PWA,Zakat Profesi,"2021-04-04 17:39:10",300000.0,settlement,bank_transfer
+32951,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-04 23:41:01",1000.0,COMPLETED,OVO
+32953,Lutfiatus sholihah,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-04-05 03:47:45",100000.0,settlement,bank_transfer
+32955,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-04-05 05:14:20",100000.0,settlement,bank_transfer
+32958,Rokhim,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-04-05 06:20:43",17000.0,settlement,bank_transfer
+32959,Muhamad rifki,PWA,BANTU BEBASKAN PANTI ASUHAN YATIM DAN DHUAFA,"2021-04-05 06:30:13",10000.0,settlement,bank_transfer
+32960,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-05 06:55:54",5000.0,SUCCESS_COMPLETED,LINKAJA
+32961,Moch Irfan Akhbar,Android,"100 Toren untuk Pesantren, Masjid, dan Mushola di Indonesia","2021-04-05 07:42:59",100000.0,settlement,bank_transfer
+32962,Hamba Allah,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-05 08:33:20",30000.0,PAID,DANA
+32963,Irfan Aji,PWA,Zakat Profesi,"2021-04-05 09:29:14",100000.0,settlement,bank_transfer
+32970,Sanggih saputri meiyani,PWA,Nazar,"2021-04-05 13:28:14",10000.0,settlement,bank_transfer
+32978,Hamba Allah,PWA,Zakat Profesi,"2021-04-05 13:42:04",150000.0,settlement,echannel
+32982,Mutiara Dewi Bahari,PWA,Zakat Profesi,"2021-04-05 19:29:57",50000.0,settlement,bank_transfer
+32988,Tri kumala syaputri,PWA,Infaq Sedekah,"2021-04-05 21:06:12",100000.0,settlement,bank_transfer
+32989,Tri kumala syaputri,PWA,Zakat Profesi,"2021-04-05 21:08:24",200000.0,settlement,bank_transfer
+32992,Lia Purnamasari,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-05 22:07:27",150000.0,settlement,BRI
+32994,Ari,Android,Panti Asuhan Yatim dan Dhuafa Gedebage,"2021-04-06 05:20:11",100000.0,settlement,bank_transfer
+32996,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-06 05:51:34",5000.0,SUCCESS_COMPLETED,LINKAJA
+32997,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-04-06 06:05:16",100000.0,settlement,bank_transfer
+32998,Agung Is Hartono,PWA,PANTI ASUHAN YATIM DAN DHUAFA PANDU RAYA,"2021-04-06 06:28:23",120000.0,settlement,bank_transfer
+33009,Asti,PWA,Zakat Barang Temuan,"2021-04-06 11:06:48",2000.0,PAID,DANA
+33010,Asti,PWA,Zakat Emas Perak dan Uang,"2021-04-06 11:08:17",2000.0,PAID,DANA
+33011,Asti,PWA,Zakat Perniagaan,"2021-04-06 11:08:36",2000.0,PAID,DANA
+33012,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-04-06 11:08:55",2000.0,PAID,DANA
+33013,Asti,PWA,Zakat Akhir Tahun,"2021-04-06 11:09:14",2000.0,PAID,DANA
+33014,Asti,PWA,Zakat Profesi,"2021-04-06 11:09:33",2000.0,PAID,DANA
+33015,Asti,PWA,Nazar,"2021-04-06 11:09:51",2000.0,PAID,DANA
+33016,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-06 11:10:12",2000.0,PAID,DANA
+33017,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-06 11:10:31",2000.0,PAID,DANA
+33018,Asti,PWA,Berkah Dengan Sedekah,"2021-04-06 11:10:53",2000.0,PAID,DANA
+33019,Asti,PWA,Infaq Sedekah,"2021-04-06 11:11:09",2000.0,PAID,DANA
+33044,bambang koswara,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-06 15:11:23",150000.0,settlement,bank_transfer
+33050,Taufiq,PWA,Infaq Sedekah,"2021-04-06 20:35:41",1.0,COMPLETED,OVO
+33051,Taufiq,PWA,Infaq Sedekah,"2021-04-06 20:36:31",1.0,settlement,gopay
+33052,BAMBANG SUJATMIKO,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-04-06 22:28:52",2000.0,settlement,gopay
+33055,Asti,PWA,Zakat Barang Temuan,"2021-04-07 01:40:58",2000.0,PAID,DANA
+33056,Asti,PWA,Zakat Emas Perak dan Uang,"2021-04-07 01:41:14",2000.0,PAID,DANA
+33057,Asti,PWA,Zakat Perniagaan,"2021-04-07 01:41:32",2000.0,PAID,DANA
+33058,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-04-07 01:41:50",2000.0,PAID,DANA
+33059,Asti,PWA,Zakat Akhir Tahun,"2021-04-07 01:42:06",2000.0,PAID,DANA
+33060,Asti,PWA,Zakat Profesi,"2021-04-07 01:42:22",2000.0,PAID,DANA
+33061,Asti,PWA,Nazar,"2021-04-07 01:42:37",2000.0,PAID,DANA
+33062,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-07 01:42:53",2000.0,PAID,DANA
+33063,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-07 01:43:09",2000.0,PAID,DANA
+33064,Asti,PWA,Berkah Dengan Sedekah,"2021-04-07 01:43:32",2000.0,PAID,DANA
+33065,Asti,PWA,Infaq Sedekah,"2021-04-07 01:44:14",2000.0,PAID,DANA
+33066,BAMBANG SUJATMIKO,Android,Zakat Akhir Tahun,"2021-04-07 04:34:49",1000.0,settlement,gopay
+33067,BAMBANG SUJATMIKO,Android,Harapan Dede Memberi Mahkota Untuk Orang Tua Di Surga,"2021-04-07 04:36:11",1000.0,settlement,gopay
+33070,BAMBANG SUJATMIKO,Android,"Ayah Bunda, Aku Ingin Bersekolah Lagi...","2021-04-07 05:19:03",1000.0,settlement,gopay
+33071,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-07 06:17:29",5000.0,SUCCESS_COMPLETED,LINKAJA
+33073,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-07 06:19:58",5000.0,SUCCESS_COMPLETED,LINKAJA
+33074,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-04-07 06:22:59",100000.0,settlement,bank_transfer
+33079,Dianty Larasati,Web,Zakat Profesi,"2021-04-07 09:49:31",615000.0,settlement,BNI
+33081,Puput,PWA,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK KKO,"2021-04-07 09:54:28",10000.0,settlement,bank_transfer
+33084,wiwit,Android,Berkah Dengan Sedekah,"2021-04-07 12:37:10",100000.0,settlement,gopay
+33087,Stefi Rahmawati,PWA,Zakat Profesi,"2021-04-07 14:46:06",1000328.0,settlement,Transfer Bank Mandiri Syariah - 7277777775
+33090,endah,PWA,PANTI ASUHAN YATIM DAN DHUAFA KRUKUT DEPOK,"2021-04-07 20:22:27",500000.0,settlement,bank_transfer
+33091,Alm. Narbiah binti Kromontono,Android,PANTI ASUHAN YATIM DAN DHUAFA CIPUTAT,"2021-04-08 01:15:23",75000.0,settlement,bank_transfer
+33092,Ari,Android,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-08 05:03:29",100000.0,settlement,bank_transfer
+33093,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-04-08 05:27:41",100000.0,settlement,bank_transfer
+33095,Fajra Rizqi Indri Lestari,Android,Berkah Dengan Sedekah,"2021-04-08 05:45:46",50000.0,SUCCESS_COMPLETED,LINKAJA
+33096,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-08 06:01:52",5000.0,SUCCESS_COMPLETED,LINKAJA
+33103,Hamba allah,WEB,Infaq Sedekah,"2021-04-08 09:20:54",100000.0,settlement,BNI Yayasan Mizan Amanah
+33107,Arsakha Devandra Dzuhriansyah,WEB,Berkah Dengan Sedekah,"2021-04-08 16:48:57",350000.0,settlement,BCA Yayasan Mizan Amanah
+33110,Roni Suwarno,Android,"Ayah Bunda, Aku Ingin Bersekolah Lagi...","2021-04-08 21:01:43",100000.0,SUCCESS_COMPLETED,LINKAJA
+33112,Developer,Web,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-08 23:30:11",1.0,COMPLETED,OVO
+33116,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-04-09 04:42:59",100000.0,settlement,BNI
+33119,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-09 05:28:34",7000.0,COMPLETED,OVO
+33120,Gatot,PWA,Infaq Sedekah,"2021-04-09 05:34:34",100000.0,settlement,bank_transfer
+33121,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-04-09 05:37:59",100000.0,settlement,bank_transfer
+33123,abdul basit,Android,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-09 05:48:29",5000.0,SUCCESS_COMPLETED,LINKAJA
+33125,Sanggih saputri meiyani,PWA,Nazar,"2021-04-09 06:14:19",10000.0,settlement,bank_transfer
+33126,Benny Pratama,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-04-09 06:26:13",5000.0,settlement,gopay
+33132,hamba Allah,Android,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-09 08:10:42",10000.0,settlement,bank_transfer
+33137,Ali Mulyana,Web,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-04-09 10:28:06",1000000.0,settlement,BNI
+33139,Indah Sukmawati,WEB,Berkah Dengan Sedekah,"2021-04-09 10:34:44",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+33141,Hamba allah,WEB,Infaq Sedekah,"2021-04-09 10:39:51",100000.0,settlement,BCA Yayasan Mizan Amanah
+33143,Verdina Maria hertyanti,WEB,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-09 11:04:14",25000.0,settlement,BCA Yayasan Mizan Amanah
+33144,Agung Herwanto,WEB,Zakat Profesi,"2021-04-09 11:36:43",100000.0,settlement,BCA Yayasan Mizan Amanah
+33147,Renaldi Perdana Kesuma,PWA,Infaq Sedekah,"2021-04-09 12:10:37",500000.0,settlement,bank_transfer
+33148,suci,PWA,PANTI ASUHAN YATIM DAN DHUAFA SOLO,"2021-04-09 12:20:50",50000.0,settlement,bank_transfer
+33149,Nn,PWA,Berkah Dengan Sedekah,"2021-04-09 12:45:06",100000.0,settlement,bank_transfer
+33150,daniel,PWA,Infaq Sedekah,"2021-04-09 13:04:18",35000.0,settlement,bank_transfer
+33151,Amelia Alfadhita,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-09 13:45:35",100000.0,settlement,bank_transfer
+33152,"Almh teti sugiarti , alm eddy kuncoro",WEB,Infaq Sedekah,"2021-04-09 13:48:38",201418.0,settlement,BCA Yayasan Mizan Amanah
+33153,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-09 13:52:32",300000.0,settlement,bank_transfer
+33155,"KEL. KHALID SALEEM,",WEB,Berkah Dengan Sedekah,"2021-04-09 15:00:55",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+33184,Benny Pratama,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-04-09 22:05:55",2000.0,settlement,gopay
+33220,Deriyos Alwinda,PWA,Infaq Sedekah,"2021-04-09 22:19:45",150000.0,settlement,bank_transfer
+33229,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-10 04:12:54",10000.0,settlement,bank_transfer
+33231,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,PANTI ASUHAN YATIM DAN DHUAFA SUKASARI,"2021-04-10 05:15:31",100000.0,settlement,bank_transfer
+33232,Dimas,PWA,Berkah Dengan Sedekah,"2021-04-10 06:38:22",50000.0,settlement,bank_transfer
+33237,Ktya,PWA,Infaq Sedekah,"2021-04-10 08:22:19",5000.0,settlement,gopay
+33240,inna rossaria,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-10 08:59:37",1000000.0,settlement,bank_transfer
+33256,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI 2,"2021-04-10 14:13:45",100000.0,settlement,gopay
+33269,Lidaryanti,PWA,PANTI ASUHAN YATIM DAN DHUAFA SALIHARA,"2021-04-10 15:13:33",100000.0,settlement,bank_transfer
+33270,Duhita Karisma Putri,PWA,Zakat Profesi,"2021-04-10 15:40:32",112000.0,settlement,bank_transfer
+33273,Ktya,PWA,Infaq Sedekah,"2021-04-11 04:52:54",5000.0,settlement,gopay
+33274,Benny Pratama,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-11 07:56:24",2000.0,settlement,gopay
+33277,Yuni Fransiana,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-11 10:40:18",450000.0,settlement,bank_transfer
+33284,Dhoni,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-11 18:05:00",100000.0,settlement,bank_transfer
+33286,BAMBANG SUJATMIKO,Android,Sajadah Untuk Santri Yatim Pesantren Difabel Cililin,"2021-04-11 21:34:37",2000.0,settlement,gopay
+33289,Puput,PWA,"1000 ALQURAN UNTUK MUSHALLA DI PELOSOK","2021-04-12 04:05:00",20000.0,settlement,bank_transfer
+33292,Sanggih saputri meiyani,PWA,Nazar,"2021-04-12 04:59:18",10000.0,settlement,bank_transfer
+33293,Ktya,PWA,Infaq Sedekah,"2021-04-12 05:06:16",5000.0,settlement,gopay
+33296,hamba Allah,Android,Berkah Dengan Sedekah,"2021-04-12 05:17:47",10000.0,settlement,bank_transfer
+33306,Nursidik Cahyono,WEB,Berkah Dengan Sedekah,"2021-04-12 08:23:38",50000.0,settlement,Mandiri Yayasan Mizan Amanah
+33307,Aang,WEB,Berkah Dengan Sedekah,"2021-04-12 08:40:31",50000.0,settlement,BCA Yayasan Mizan Amanah
+33310,Hamba Allah,WEB,Berkah Dengan Sedekah,"2021-04-12 08:57:24",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+33311,"Sudarsono, ST",WEB,Berkah Dengan Sedekah,"2021-04-12 09:32:22",200000.0,settlement,Mandiri Yayasan Mizan Amanah
+33312,Glorita,Web,Zakat Profesi,"2021-04-12 10:12:53",250000.0,settlement,bank_transfer
+33313,Glorita,Web,Yuk Patungan Wakaf Asrama Guru Para Penghafal Alquran,"2021-04-12 10:28:22",250000.0,settlement,bank_transfer
+33330,Yulia,PWA,Infaq Sedekah,"2021-04-12 15:00:48",250000.0,settlement,bank_transfer
+33334,Dhiana sylvana,PWA,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-12 17:27:08",100000.0,settlement,bank_transfer
+33335,Nadya,PWA,"Yuk Bantu Pengobatan Adik Athif, Sakit Penyempitan Pembuluh Darah dan Bocor Jantung","2021-04-12 18:58:37",500000.0,settlement,bank_transfer
+33337,Alm Soepardji,PWA,Infaq Sedekah,"2021-04-12 21:47:09",100000.0,settlement,BNI
+33340,Reza Agustur,PWA,Infaq Sedekah,"2021-04-13 04:43:18",10000.0,settlement,bank_transfer
+33342,Ktya,PWA,Infaq Sedekah,"2021-04-13 04:46:59",10000.0,settlement,gopay
+33345,Rendra,PWA,Infaq Sedekah,"2021-04-13 05:05:30",10000.0,settlement,bank_transfer
+33348,Mita Septiani,PWA,Infaq Sedekah,"2021-04-13 05:10:56",5000.0,settlement,gopay
+33352,Feizal Syahmenan,WEB,Berkah Dengan Sedekah,"2021-04-13 07:58:46",50000.0,settlement,Mandiri Yayasan Mizan Amanah
+33353,BAYU WAHYUDI,WEB,Berkah Dengan Sedekah,"2021-04-13 08:03:10",500000.0,settlement,BCA Yayasan Mizan Amanah
+33358,Pandu Himawan Ajie,WEB,Zakat Profesi,"2021-04-13 09:41:58",125850.0,settlement,Mandiri Yayasan Mizan Amanah
+33360,Rita Budianti,WEB,Sodaqoh Anak Yatim,"2021-04-13 13:49:58",1000000.0,settlement,BCA Yayasan Mizan Amanah
+33376,Tedy Rahman,WEB,Sodaqoh Anak Yatim,"2021-04-13 16:27:12",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+33378,Edi purwanto,PWA,Zakat Profesi,"2021-04-13 17:01:16",500000.0,settlement,BRI
+33382,irfandhi dwi satria,Android,PANTI ASUHAN YATIM DAN DHUAFA RAWA LUMBU BEKASI,"2021-04-13 20:05:31",200000.0,settlement,bank_transfer
+33390,Ktya,PWA,Infaq Sedekah,"2021-04-14 04:47:24",5000.0,settlement,gopay
+33391,Reza Agustur,PWA,Berkah Dengan Sedekah,"2021-04-14 04:54:46",10000.0,settlement,bank_transfer
+33392,Rendra,PWA,Infaq Sedekah,"2021-04-14 04:55:37",10000.0,settlement,bank_transfer
+33396,Mita Septiani,PWA,Infaq Sedekah,"2021-04-14 05:09:57",10000.0,settlement,gopay
+33401,hamba Allah,Android,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-14 06:00:37",10000.0,settlement,bank_transfer
+33402,Amir Saleh,PWA,Infaq Sedekah,"2021-04-14 07:05:06",1000000.0,settlement,bank_transfer
+33404,"Almh teti sugiarti , alm eddy kuncoro",WEB,Infaq Sedekah,"2021-04-14 09:18:39",400000.0,settlement,BCA Yayasan Mizan Amanah
+33405,Iman Setiawan,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-14 09:21:32",500000.0,settlement,bank_transfer
+33408,Lala rumala,PWA,Infaq Sedekah,"2021-04-14 09:46:51",100000.0,settlement,bank_transfer
+33409,Alm Soepardji,PWA,Infaq Sedekah,"2021-04-14 10:00:48",20000.0,settlement,BNI
+33420,Rudy Adil Rangkuty,PWA,Berkah Dengan Sedekah,"2021-04-14 17:36:05",100000.0,settlement,bank_transfer
+33427,Yoga Ardy,Android,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-04-15 01:08:15",50000.0,settlement,bank_transfer
+33428,D,Android,Infaq Sedekah,"2021-04-15 01:19:38",100000.0,settlement,bank_transfer
+33429,Ktya,PWA,Infaq Sedekah,"2021-04-15 04:47:54",5000.0,settlement,gopay
+33430,Rendra,PWA,Infaq Sedekah,"2021-04-15 05:05:57",10000.0,settlement,bank_transfer
+33431,Reza Agustur,PWA,Infaq Sedekah,"2021-04-15 05:12:31",10000.0,settlement,bank_transfer
+33434,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-15 05:39:34",5000.0,settlement,gopay
+33441,Hamba Allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CIJANTUNG,"2021-04-15 05:47:27",1000000.0,settlement,bank_transfer
+33444,Syaiful Arif,WEB,Infaq Sedekah,"2021-04-15 08:33:55",300000.0,settlement,BCA Yayasan Mizan Amanah
+33445,Imam Wibawa,WEB,Berkah Dengan Sedekah,"2021-04-15 08:39:04",820000.0,settlement,BCA Yayasan Mizan Amanah
+33446,Madin,WEB,Zakat Profesi,"2021-04-15 09:28:54",500000.0,settlement,BCA Yayasan Mizan Amanah
+33447,Muhammad Angga Firdaus,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-15 10:00:31",50000.0,settlement,BNI
+33457,Benny Pratama,PWA,Kebutuhan Saling Jaga Untuk Sesama,"2021-04-15 13:29:00",2000.0,settlement,gopay
+33467,Teman Peduli,Android,Nek Irah tak Ingin Rumah Kenangan Suaminya Ambruk,"2021-04-15 14:11:29",10000.0,settlement,MANDIRI
+33468,"100000",Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-15 14:17:56",10000.0,settlement,echannel
+33469,"100000",Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-15 14:22:19",10000.0,settlement,MANDIRI
+33477,Alif Setyo Pambudi,Web,Alquran untuk Pesantren Difabel dan Pelosok Negeri,"2021-04-15 15:59:50",100000.0,settlement,credit_card
+33478,arie,Android,Berkah Dengan Sedekah,"2021-04-15 16:25:46",100000.0,settlement,bank_transfer
+33479,Taufiq,PWA,Infaq Sedekah,"2021-04-15 16:26:35",1.0,settlement,gopay
+33480,Amik Sugiarti,PWA,"Mushola Seperti Gubuk Reyot di Kampung Laut, Ingin Direnovasi","2021-04-15 17:04:33",50000.0,settlement,BNI
+33525,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-15 23:24:12",5000.0,settlement,gopay
+33527,Rudy Adil Rangkuty,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-16 03:28:11",100000.0,settlement,bank_transfer
+33528,Asti,PWA,Zakat Barang Temuan,"2021-04-16 03:32:49",3000.0,settlement,gopay
+33529,Asti,PWA,Zakat Emas Perak dan Uang,"2021-04-16 03:34:14",3000.0,settlement,gopay
+33530,Asti,PWA,Zakat Perniagaan,"2021-04-16 03:34:50",3000.0,settlement,gopay
+33531,Asti,PWA,ZAKAT FITRAH DI MIZAN AMANAH,"2021-04-16 03:35:38",3000.0,settlement,gopay
+33532,Asti,PWA,Zakat Akhir Tahun,"2021-04-16 03:36:13",3000.0,settlement,gopay
+33533,Asti,PWA,Zakat Profesi,"2021-04-16 03:36:59",3000.0,settlement,gopay
+33534,Asti,PWA,Nazar,"2021-04-16 03:38:18",3000.0,settlement,gopay
+33535,Asti,PWA,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-16 03:39:22",3000.0,settlement,gopay
+33536,Asti,PWA,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-16 03:40:39",3000.0,settlement,gopay
+33537,Asti,PWA,Berkah Dengan Sedekah,"2021-04-16 03:41:41",3000.0,settlement,gopay
+33538,Asti,PWA,Infaq Sedekah,"2021-04-16 03:42:35",3000.0,settlement,gopay
+33539,Muhamad rifki,PWA,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-16 04:25:04",10000.0,settlement,bank_transfer
+33543,Fahlia Asweni,PWA,Infaq Sedekah,"2021-04-16 04:59:08",50000.0,settlement,MANDIRI
+33545,Fahlia Asweni,PWA,Infaq Sedekah,"2021-04-16 05:02:24",50000.0,settlement,MANDIRI
+33550,hamba Allah,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-16 05:06:35",10000.0,settlement,bank_transfer
+33551,Rendra,PWA,Infaq Sedekah,"2021-04-16 05:07:56",15000.0,settlement,bank_transfer
+33553,Ibu Ari /JBB/Najumas/HS2/Koalum,PWA,Wakaf Air Bersih untuk 700 Santri di Pesantren Tahfizh,"2021-04-16 05:31:06",100000.0,settlement,bank_transfer
+33554,AS,PWA,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-04-16 05:34:22",100000.0,settlement,BNI
+33560,Ktya,PWA,Infaq Sedekah,"2021-04-16 06:02:24",5000.0,settlement,gopay
+33561,Sanggih saputri meiyani,PWA,Nazar,"2021-04-16 06:12:24",10000.0,settlement,bank_transfer
+33563,Nn,PWA,Berkah Dengan Sedekah,"2021-04-16 08:41:27",100000.0,settlement,bank_transfer
+33566,suci,PWA,PANTI ASUHAN YATIM DAN DHUAFA SOLO,"2021-04-16 09:14:20",50000.0,settlement,bank_transfer
+33570,Reza Agustur,PWA,Infaq Sedekah,"2021-04-16 09:37:50",10000.0,settlement,bank_transfer
+33571,Ari,Android,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-16 09:56:49",100000.0,settlement,bank_transfer
+33581,Nurfatha,WEB,Infaq Sedekah,"2021-04-16 10:20:01",200000.0,settlement,BRI Yayasan Mizan Amanah
+33584,Ending Cahyadi,WEB,Infaq Sedekah,"2021-04-16 10:27:57",25000.0,settlement,BCA Yayasan Mizan Amanah
+33591,Omahneni,WEB,Infaq Sedekah,"2021-04-16 11:21:17",200000.0,settlement,BCA Yayasan Mizan Amanah
+33592,Ricky K. Margono,WEB,Infaq Sedekah,"2021-04-16 11:25:54",600000.0,settlement,BCA Yayasan Mizan Amanah
+33593,YULI YUSMARA,WEB,Infaq Sedekah,"2021-04-16 11:35:06",100000.0,settlement,BCA Yayasan Mizan Amanah
+33595,Muhammad yoga Pratama,Web,Berkah Dengan Sedekah,"2021-04-16 11:52:21",50000.0,settlement,bank_transfer
+33596,daniel,PWA,Infaq Sedekah,"2021-04-16 12:00:33",25000.0,settlement,bank_transfer
+33597,Feizal Syahmenan,WEB,Infaq Sedekah,"2021-04-16 12:19:36",20000.0,settlement,Mandiri Yayasan Mizan Amanah
+33602,ricko,Android,Infaq Sedekah,"2021-04-16 12:55:13",100000.0,settlement,bank_transfer
+33611,Gatot,PWA,Infaq Sedekah,"2021-04-16 13:19:38",100000.0,settlement,bank_transfer
+33617,Aris Fajar Yp,Web,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-16 14:12:24",500000.0,settlement,MANDIRI
+33625,anti damayanti,WEB,Sodaqoh Anak Yatim,"2021-04-16 15:09:22",300000.0,settlement,BCA Yayasan Mizan Amanah
+33626,Farah Nawang Arroyan,Android,PANTI ASUHAN YATIM DAN DHUAFA KESEHATAN BINTARO,"2021-04-16 16:58:54",25000.0,settlement,gopay
+33629,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-16 17:33:53",300000.0,settlement,bank_transfer
+33635,Muhamad Agung Kurniawan,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-16 19:08:29",20000.0,settlement,gopay
+33637,wawan mochamad sofwan,Android,Zakat Profesi,"2021-04-16 21:49:41",200000.0,settlement,bank_transfer
+33638,wawan mochamad sofwan,Android,Infaq Sedekah,"2021-04-16 21:51:02",200000.0,settlement,bank_transfer
+33639,Bambang Wibisono,Web,PANTI ASUHAN YATIM DAN DHUAFA KALIDERES,"2021-04-16 22:42:23",300000.0,settlement,MANDIRI
+33649,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-17 05:05:15",5000.0,settlement,gopay
+33650,hamba Allah,Android,Berkah Dengan Sedekah,"2021-04-17 05:23:29",10000.0,settlement,bank_transfer
+33653,Reza Agustur,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-17 07:47:59",10000.0,settlement,bank_transfer
+33691,Resta Agung Susilo,Web,Zakat Profesi,"2021-04-17 13:51:13",400000.0,settlement,bank_transfer
+33700,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-17 22:46:51",5000.0,settlement,gopay
+33701,Levi,Web,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-04-17 22:55:23",20000.0,settlement,gopay
+33702,Reza Agustur,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-18 05:02:22",10000.0,settlement,bank_transfer
+33703,AS,Web,PANTI ASUHAN YATIM DAN DHUAFA KAHFI 2,"2021-04-18 05:08:08",100000.0,settlement,gopay
+33704,nur chalimah,Web,SEDEKAH BAJU LEBARAN UNTUK 2.000 ANAK YATIM,"2021-04-18 05:35:57",100753.0,settlement,Transfer Bank Mandiri Syariah - 7277777775
+33706,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-18 05:43:26",5000.0,settlement,gopay
+33707,Eko Santoso,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-18 05:55:02",5000.0,settlement,gopay
+33709,hamba Allah,Android,Berkah Dengan Sedekah,"2021-04-18 06:20:37",10000.0,settlement,bank_transfer
+33718,Hamba Allah,Android,Berkah Dengan Sedekah,"2021-04-18 15:16:51",100000.0,settlement,gopay
+33719,Alif Setyo Pambudi,Web,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-18 16:22:03",100000.0,settlement,MANDIRI
+33723,hamba Allah,Android,Berkah Dengan Sedekah,"2021-04-19 04:49:29",10000.0,settlement,bank_transfer
+33725,Puput,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-19 05:06:17",10000.0,settlement,bank_transfer
+33728,Ktya,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-19 08:37:12",5000.0,settlement,gopay
+33729,Dimas,Web,Berkah Dengan Sedekah,"2021-04-19 08:50:41",100000.0,settlement,bank_transfer
+33730,Aang,WEB,Sodaqoh Anak Yatim,"2021-04-19 09:09:28",100000.0,settlement,BCA Yayasan Mizan Amanah
+33731,Supriyanto SKM MARS,WEB,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-19 09:17:59",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+33732,Keluarga Bpk Yunus,Web,Berkah Dengan Sedekah,"2021-04-19 09:33:41",100000.0,settlement,bank_transfer
+33733,Iis istiyati,WEB,Infaq Sedekah,"2021-04-19 09:34:34",150000.0,settlement,Mandiri Yayasan Mizan Amanah
+33741,Barru Kurniawan,Web,PANTI ASUHAN YATIM DAN DHUAFA CILANDAK BARAT,"2021-04-19 11:08:02",500000.0,settlement,MANDIRI
+33757,Afrizal,Web,PARCEL LEBARAN UNTUK 10.000 ANAK YATIM DAN DHUAFA,"2021-04-19 12:01:51",150000.0,settlement,bank_transfer
+33758,Dewi Komalasari,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-19 12:35:07",200000.0,settlement,BNI
+33761,Rika Sopyanti,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-19 12:55:16",200000.0,settlement,bank_transfer
+33766,JT,Web,BANTU BIAYA MAKAN UNTUK 47 PANTI YATIM DHUAFA,"2021-04-19 13:30:10",1000000.0,settlement,BNI
+33767,syanandra nailah,Web,PARCEL LEBARAN UNTUK 10.000 ANAK YATIM DAN DHUAFA,"2021-04-19 13:46:34",100000.0,settlement,bank_transfer
+33772,Ais Eykhma Setiadi,Web,Berkah Dengan Sedekah,"2021-04-19 14:09:53",300000.0,settlement,bank_transfer
+33777,Jondistira Volta,WEB,Infaq Sedekah,"2021-04-19 14:43:43",10000000,settlement,Mandiri Yayasan Mizan Amanah
+33779,Rizki Insani,Web,Zakat Profesi,"2021-04-19 14:51:00",100000.0,settlement,MANDIRI
+33784,Asep Sahrul,WEB,Berkah Dengan Sedekah,"2021-04-19 15:03:33",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+33790,Zacky,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-19 17:37:55",100000.0,settlement,bank_transfer
+33791,Alif Setyo Pambudi,Web,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-04-19 17:39:26",20000.0,settlement,MANDIRI
+33795,Anna,Web,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-20 04:37:26",200000.0,settlement,BNI
+33797,Ktya,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-20 04:50:21",5000.0,settlement,gopay
+33798,Ari,Android,PANTI ASUHAN YATIM DAN DHUAFA DUREN SAWIT,"2021-04-20 05:12:55",10000.0,settlement,bank_transfer
+33799,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-20 05:23:59",5000.0,settlement,gopay
+33802,Kurniawan,Android,Alquran untuk Pesantren Difabel dan Pelosok Negeri,"2021-04-20 08:07:28",260000.0,settlement,PERMATA
+33803,Diya hannyzar,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-20 08:30:07",20153.0,settlement,Transfer Bank Mandiri Syariah - 7277777775
+33805,Ulin shara,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-20 08:49:30",10000.0,settlement,gopay
+33808,Hamba Allah,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-20 10:14:03",100000.0,settlement,gopay
+33813,Muhammad Irfan,Web,Mukena Untuk Santri Yatim di Pondok Pesantren,"2021-04-20 10:42:33",5000.0,settlement,gopay
+33817,Dhidi Mulyadi,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-20 11:03:37",750000.0,settlement,bank_transfer
+33818,Aditya Ryan,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-20 11:04:36",50000.0,settlement,BNI
+33828,Pusty Anggraeni,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-20 13:32:03",100000.0,settlement,bank_transfer
+33832,Debi,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-20 15:21:08",100000.0,settlement,bank_transfer
+33836,Bayu Prasetyo Nugroho,Web,SEDEKAH BAJU LEBARAN UNTUK 2.000 ANAK YATIM,"2021-04-21 03:33:00",20000.0,settlement,BNI
+33839,Ayu Rahayu,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-21 04:53:08",50000.0,settlement,bank_transfer
+33841,Ktya,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-21 05:01:57",20000.0,settlement,gopay
+33844,Hamba Allah,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-21 05:19:26",150000.0,settlement,BNI
+33848,hamba Allah,Android,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-21 05:55:50",10000.0,settlement,bank_transfer
+33849,Irna aryani,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-21 07:52:18",100000.0,settlement,MANDIRI
+33850,DwiRudhy,WEB,Infaq Sedekah,"2021-04-21 08:11:00",500000.0,settlement,Mandiri Yayasan Mizan Amanah
+33851,Suradal,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-21 08:11:12",200000.0,settlement,bank_transfer
+33869,Ali Maksum,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-21 11:44:30",250228.0,settlement,Transfer Bank Mandiri Syariah - 7277777775
+33870,Ita Astit,WEB,Zakat,"2021-04-21 14:01:40",1000000.0,settlement,Mandiri Yayasan Mizan Amanah
+33871,Anto Purwanto,WEB,Infaq Sedekah,"2021-04-21 14:08:03",100000.0,settlement,Mandiri Syariah Yayasan Mizan Amanah
+33872,endah,Web,PANTI ASUHAN YATIM DAN DHUAFA KRUKUT DEPOK,"2021-04-21 15:24:07",500000.0,settlement,bank_transfer
+33874,Alif Setyo Pambudi,Web,Sajadah Untuk Santri Yatim Pesantren Difabel Cililin,"2021-04-21 17:37:19",50000.0,settlement,MANDIRI
+33876,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-21 23:57:32",3000.0,settlement,gopay
+33877,Fitri Nurilah,Web,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-22 04:24:15",10000.0,settlement,MANDIRI
+33881,Ryu,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-22 04:44:48",14000.0,settlement,gopay
+33882,Ktya,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-22 04:46:59",10000.0,settlement,gopay
+33885,ingga,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-22 05:43:02",5000.0,settlement,gopay
+33886,Diah,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-22 06:17:55",25000.0,settlement,bank_transfer
+33888,Ibu Ari /JBB/Najumas/HS2/Koalum,Web,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-22 06:51:14",100000.0,settlement,bank_transfer
+33893,Aang,WEB,Infaq Sedekah,"2021-04-22 08:38:05",100000.0,settlement,BCA Yayasan Mizan Amanah
+33894,Joko sambodo,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-22 09:18:33",100000.0,settlement,MANDIRI
+33904,Parrnie Ady Saputra,WEB,Sodaqoh Anak Yatim,"2021-04-22 10:21:30",5000000.0,settlement,BCA Yayasan Mizan Amanah
+33905,Diah,Web,Bayar Zakat Fitrah Online Untuk Kaum Dhuafa,"2021-04-22 10:22:48",50000.0,settlement,BNI
+33911,Rini APD,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-22 11:03:00",500000.0,settlement,MANDIRI
+33916,hamba allah,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-22 12:09:25",50000.0,settlement,bank_transfer
+33919,Mohamad Akbar,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-22 14:28:21",100000.0,settlement,BNI
+33928,YUDO GRAHONO SUHARIYADI,Web,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-22 15:33:33",50000.0,settlement,MANDIRI
+33931,PUTRI RAHMA AMALIA,Web,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-22 16:57:02",150000.0,settlement,gopay
+33933,lessy Sutiyono Aji,Web,Berkah Dengan Sedekah,"2021-04-22 18:43:05",100000.0,settlement,gopay
+33935,Levi,Web,PANTI ASUHAN YATIM DAN DHUAFA CINERE,"2021-04-22 22:24:59",5000.0,settlement,gopay
+33939,Denis Gunardi wibowo,WEB,Sodaqoh Anak Yatim,"2021-04-23 08:15:59",200000.0,settlement,BRI Yayasan Mizan Amanah
+33940,perdana kusuma,WEB,Infaq Sedekah,"2021-04-23 08:35:17",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+33941,sally citra ramadhini binti amiruddin massani,WEB,Infaq Sedekah,"2021-04-23 08:38:34",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+33942,Tami Fioricy,WEB,Zakat,"2021-04-23 08:40:06",600000.0,settlement,BCA Yayasan Mizan Amanah
+33943,Dwi Febri Chandra Kusuma,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-23 08:42:33",20000.0,settlement,bank_transfer
+33944,Hidayat Abrar,WEB,Infaq Sedekah,"2021-04-23 08:48:38",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+33946,Hamba Allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CIJANTUNG,"2021-04-23 09:17:23",500000.0,settlement,bank_transfer
+33953,ratih wardhani,WEB,Sodaqoh Anak Yatim,"2021-04-23 11:28:26",200000.0,settlement,BCA Yayasan Mizan Amanah
+33954,Defid Tri Rizky,WEB,Infaq Sedekah,"2021-04-23 12:19:04",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+33955,Feizal Syahmenan,WEB,Infaq Sedekah,"2021-04-23 12:37:00",50000.0,settlement,Mandiri Yayasan Mizan Amanah
+33956,Subhan ikbal,Android,Berkah Dengan Sedekah,"2021-04-23 12:40:12",100000.0,settlement,bank_transfer
+33959,hanin,WEB,Infaq Sedekah,"2021-04-23 13:06:04",50000.0,settlement,BCA Yayasan Mizan Amanah
+33960,"Almh teti sugiarti , alm eddy kuncoro",WEB,Infaq Sedekah,"2021-04-23 13:17:38",120000.0,settlement,BCA Yayasan Mizan Amanah
+33966,Mesya Ananda,WEB,Infaq Sedekah,"2021-04-23 14:15:18",100000.0,settlement,BRI Yayasan Mizan Amanah
+33968,Mesya Ananda,WEB,Infaq Sedekah,"2021-04-23 14:19:07",200000.0,settlement,BRI Yayasan Mizan Amanah
+33970,Alm. Narbiah binti Kromontono,Android,PANTI ASUHAN YATIM & DHUAFA SURABAYA DUKUH KUPANG,"2021-04-23 14:31:20",50000.0,settlement,bank_transfer
+33983,ayu,WEB,Zakat,"2021-04-23 15:02:12",400000.0,settlement,BCA Yayasan Mizan Amanah
+33985,YULI YUSMARA,WEB,Infaq Sedekah,"2021-04-23 15:04:44",100000.0,settlement,BCA Yayasan Mizan Amanah
+33996,Nn,PWA,Konser Amal Virtual #JadiPahlawan 2020,"2021-04-23 15:31:44",100000.0,settlement,bank_transfer
+33998,Johanes Sulistiadi + kiki(istri),WEB,Infaq Sedekah,"2021-04-23 15:33:27",100000.0,settlement,BCA Yayasan Mizan Amanah
+34010,uKi,Android,Berkah Dengan Sedekah,"2021-04-23 16:09:04",50000.0,settlement,BNI
+34011,Heni Martanti,Android,Zakat Profesi,"2021-04-23 16:11:44",850000.0,settlement,bank_transfer
+34025,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-23 17:02:44",500000.0,settlement,bank_transfer
+34068,Dimas,Android,Berkah Dengan Sedekah,"2021-04-24 10:46:37",100000.0,settlement,bank_transfer
+34069,tony,Android,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-24 11:56:36",100000.0,settlement,gopay
+34072,Lenny Latifah,Android,Zakat Profesi,"2021-04-24 15:28:38",100000.0,settlement,echannel
+34087,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-24 23:21:17",5000.0,settlement,gopay
+34091,hamba Allah,Android,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-25 05:07:07",10000.0,settlement,gopay
+34092,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-25 05:12:00",5000.0,settlement,gopay
+34093,Taufiq Rusanda,Android,Zakat Profesi,"2021-04-25 05:18:56",400000.0,settlement,MANDIRI
+34110,irfandhi dwi satria,Android,PANTI ASUHAN YATIM DAN DHUAFA MALANG,"2021-04-25 14:09:11",200000.0,settlement,bank_transfer
+34125,hamba Allah,Android,Sajadah Untuk Santri Yatim Pesantren Difabel Cililin,"2021-04-26 05:13:10",10000.0,settlement,gopay
+34132,Febby,WEB,Infaq Sedekah,"2021-04-26 08:16:25",100000.0,settlement,Mandiri Yayasan Mizan Amanah
+34134,irene eneri,WEB,Infaq Sedekah,"2021-04-26 08:20:37",200000.0,settlement,BCA Yayasan Mizan Amanah
+34135,Candrawati (Mama Renjiro),WEB,Zakat,"2021-04-26 08:21:43",300000.0,settlement,Mandiri Yayasan Mizan Amanah
+34136,nailul ula,WEB,Infaq Sedekah,"2021-04-26 08:28:01",200000.0,settlement,BCA Yayasan Mizan Amanah
+34137,Luqman Andi,WEB,Infaq Sedekah,"2021-04-26 08:33:53",650000.0,settlement,BCA Yayasan Mizan Amanah
+34138,Dewi O,WEB,Infaq Sedekah,"2021-04-26 08:43:17",300000.0,settlement,BCA Yayasan Mizan Amanah
+34139,ADI ATMADI ANANDA SOULTHAN,WEB,Infaq Sedekah,"2021-04-26 08:46:56",650000.0,settlement,BCA Yayasan Mizan Amanah
+34140,Dino Yustiawan,WEB,Zakat,"2021-04-26 08:51:25",175000.0,settlement,BCA Yayasan Mizan Amanah
+34141,Melati,Android,Berkah Dengan Sedekah,"2021-04-26 09:06:36",100000.0,settlement,gopay
+34142,Melati,Android,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-26 09:07:28",50000.0,settlement,gopay
+34158,Syach'am Fiqih,Android,Berkah Dengan Sedekah,"2021-04-26 14:07:13",100000.0,settlement,bank_transfer
+34161,Allhamdulilah,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-26 14:18:43",40000.0,settlement,gopay
+34163,Rian Irawan,Web,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-26 14:41:06",20000.0,settlement,bank_transfer
+34165,Fitri Nur Andini,WEB,Infaq Anak Yatim,"2021-04-26 14:45:50",500000.0,settlement,BCA Yayasan Mizan Amanah
+34166,Fitri Nur Andini,WEB,Sodaqoh Anak Yatim,"2021-04-26 14:56:23",500000.0,settlement,BCA Yayasan Mizan Amanah
+34174,Rizky,Web,Urgent! Balita Kanker Mata Perlu Pengobatan Segera,"2021-04-26 15:35:13",50000.0,settlement,MANDIRI
+34178,Happy,Web Mobile,Masjid Untuk Santri Yatim Penghafal Alquran,"2021-04-26 17:00:48",750000.0,settlement,bank_transfer
+34190,Fandy anjas prasetyo,Web Mobile,Berkah Dengan Sedekah,"2021-04-26 20:02:21",100000.0,settlement,MANDIRI
+34193,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-26 22:40:54",5000.0,settlement,gopay
+34195,tony,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-27 01:11:14",500000.0,settlement,gopay
+34198,hamba Allah,Android,"Sudah Tak Memadai, Tak Ada Tempat Wudhu, Mushola Ini Harus Segera Direnovasi","2021-04-27 05:19:56",10000.0,settlement,gopay
+34199,Benny Pratama,Web Mobile,Kebutuhan Saling Jaga Untuk Sesama,"2021-04-27 05:45:25",2000.0,settlement,gopay
+34200,selvi,WEB,Sodaqoh Anak Yatim,"2021-04-27 08:22:50",300000.0,settlement,BCA - 1393040002
+34207,Aji Widoyoko,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-27 10:19:59",100000.0,settlement,bank_transfer
+34209,Ana,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-27 10:36:30",100000.0,settlement,bank_transfer
+34210,Yudi Wahyudin,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-27 11:28:43",50000.0,settlement,bank_transfer
+34212,Bima Willy Anto,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-27 11:37:45",250000.0,settlement,MANDIRI
+34213,Bima Willy Anto,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-27 11:43:43",250000.0,settlement,MANDIRI
+34214,Eri Yanwar,WEB,Infaq Sedekah,"2021-04-27 11:56:28",400000.0,settlement,Mandiri - 1320006531140
+34218,Linda Maryana,Web Mobile,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-27 13:13:20",100000.0,settlement,bank_transfer
+34219,Hendra,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-27 13:14:01",5000.0,settlement,gopay
+34224,Nail,WEB,Infaq Sedekah,"2021-04-27 15:53:51",150000.0,settlement,BCA - 1393004952
+34226,Alif Setyo Pambudi,Web Mobile,Bantu Mualaf Sulawesi Memiliki Masjid Untuk Mereka Beribadah,"2021-04-27 16:42:16",50000.0,settlement,MANDIRI
+34229,Mohamad Arif Saefuloh,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-27 17:47:41",500000.0,settlement,BNI
+34230,Iwan Yosika,Android,PANTI ASUHAN YATIM DAN DHUAFA KALIDERES,"2021-04-27 19:49:53",155000.0,settlement,bank_transfer
+34233,Wildan Putra amri,Web Mobile,Zakat Profesi,"2021-04-27 22:27:38",143000.0,settlement,bank_transfer
+34234,ingga,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-28 04:50:15",5000.0,settlement,gopay
+34235,Ktya,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-28 04:51:21",10000.0,settlement,gopay
+34237,hamba Allah,Android,Bantu Mualaf Sulawesi Memiliki Masjid Untuk Mereka Beribadah,"2021-04-28 05:06:07",10000.0,settlement,bank_transfer
+34238,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-28 05:06:48",5000.0,settlement,gopay
+34239,Septania Putri Widyawardhani,Android,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-28 05:08:46",1000.0,settlement,gopay
+34241,Ibu Ari /JBB/Najumas/HS2/Koalum,Web Mobile,Gerakan Wakaf 10.000 Al Quran untuk Indonesia,"2021-04-28 05:52:46",100000.0,settlement,bank_transfer
+34243,Galih Gunawan,WEB,Infaq Sedekah,"2021-04-28 08:55:19",100000.0,settlement,BCA - 1393004952
+34244,Dyah Yulianti,WEB,Sodaqoh Anak Yatim,"2021-04-28 08:58:43",250000.0,settlement,Mandiri - 1320020040060
+34246,Martian Hendrik Mustika,WEB,Infaq Sedekah,"2021-04-28 09:01:19",200000.0,settlement,Mandiri - 1320006531140
+34247,Dewi Ulfa,WEB,Infaq Sedekah,"2021-04-28 09:01:25",100000.0,settlement,BCA - 1393004952
+34248,derby fioricy,WEB,Zakat,"2021-04-28 09:05:11",375000.0,settlement,BCA - 1393040002
+34249,Adreena Adzkiya Mecca,WEB,Infaq Sedekah,"2021-04-28 09:10:01",100000.0,settlement,Mandiri - 1320505050535
+34250,Pandu,Web,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-28 09:14:03",300000.0,settlement,bank_transfer
+34255,Moch Irfan Akhbar,Android,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-28 09:36:56",100000.0,settlement,bank_transfer
+34256,Moch Irfan Akhbar,Android,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-28 09:39:14",100000.0,settlement,bank_transfer
+34263,Almarhumah djamilah,Web Mobile,Zakat Akhir Tahun,"2021-04-28 11:04:08",50000.0,settlement,BNI
+34264,didi,WEB,Zakat,"2021-04-28 11:08:40",300000.0,settlement,BCA - 1393040002
+34265,Hj.FAIZAH YUSUF,WEB,Zakat,"2021-04-28 11:14:43",500000.0,settlement,BCA - 1393004952
+34266,RIDWAN ARIFIN,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-28 11:21:28",50000.0,settlement,bank_transfer
+34267,RIDWAN ARIFIN,Web Mobile,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-28 11:41:38",50000.0,settlement,bank_transfer
+34268,RIDWAN ARIFIN,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-28 11:48:06",50000.0,settlement,bank_transfer
+34269,Muhammad Goffar Sukaria,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-28 11:55:07",30000.0,settlement,MANDIRI
+34271,Heru Yulianto,Web,Zakat Profesi,"2021-04-28 12:40:57",523311.0,settlement,bank_transfer
+34275,Moch Deny Purnama,Android,PANTI ASUHAN YATIM DAN DHUAFA JAGAKARSA,"2021-04-28 13:13:07",100000.0,settlement,bank_transfer
+34278,Metta,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-28 13:36:25",100000.0,settlement,bank_transfer
+34283,Kati ristini,WEB,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-28 14:39:50",100000.0,settlement,BNI - 0152010118
+34292,Meizy Ardea Saputra,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-28 17:50:02",24000.0,settlement,gopay
+34293,Ratna Nissa,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-28 19:49:54",135000.0,settlement,MANDIRI
+34296,Sarah Najla,Web Mobile,Infaq Sedekah,"2021-04-28 20:23:21",100000.0,settlement,bank_transfer
+34299,Eras Maska,Web Mobile,PANTI ASUHAN YATIM DAN DHUAFA SALIHARA,"2021-04-29 00:21:54",300000.0,settlement,bank_transfer
+34301,Renaldi Perdana Kesuma,Web Mobile,Berkah Dengan Sedekah,"2021-04-29 04:52:50",500000.0,settlement,bank_transfer
+34302,Ine,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-29 05:10:47",100000.0,settlement,BRI
+34303,Reza Agustur,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-29 05:15:33",110000.0,settlement,bank_transfer
+34304,Ari,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-29 05:18:47",100000.0,settlement,bank_transfer
+34306,hamba Allah,Android,Sajadah Untuk Santri Yatim Pesantren Difabel Cililin,"2021-04-29 05:41:57",10000.0,settlement,bank_transfer
+34309,Ravena Sifa,WEB,Nazar,"2021-04-29 08:10:17",500000.0,settlement,Mandiri - 1320006531140
+34310,Lis Purwandi,Web,Sajadah Untuk Santri Yatim Pesantren Difabel Cililin,"2021-04-29 08:24:34",100000.0,settlement,bank_transfer
+34313,Ratih Purnamasari,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-29 08:41:17",75000.0,settlement,BNI
+34315,Helmilus Moesa,WEB,Zakat Profesi,"2021-04-29 09:15:24",5000000.0,settlement,Mandiri - 1320020040060
+34316,Rizqa Shidqi Velda,WEB,Infaq Sedekah,"2021-04-29 09:20:33",100000.0,settlement,Muamalat - 4080400000
+34317,Edi purwanto,Web Mobile,Zakat Profesi,"2021-04-29 09:26:09",500000.0,settlement,BRI
+34318,Yuyun wahyuni,WEB,Zakat,"2021-04-29 10:51:52",250000.0,settlement,BCA - 1393040002
+34319,Asti,Web Mobile,Zakat Barang Temuan,"2021-04-29 11:46:52",2000.0,settlement,gopay
+34320,Asti,Web Mobile,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-29 11:47:35",2000.0,settlement,gopay
+34321,Asti,Web Mobile,SEDEKAH BAJU LEBARAN UNTUK 2.000 ANAK YATIM,"2021-04-29 11:48:21",2000.0,settlement,gopay
+34322,Asti,Web Mobile,Bayar Zakat Fitrah Online Untuk Kaum Dhuafa,"2021-04-29 11:49:09",2000.0,settlement,gopay
+34323,Asti,Web Mobile,PARCEL LEBARAN UNTUK 10.000 ANAK YATIM DAN DHUAFA,"2021-04-29 11:49:52",2000.0,settlement,gopay
+34324,Asti,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-29 11:50:39",2000.0,settlement,gopay
+34325,Asti,Web Mobile,Baju Lebaran utk 1975 Anak Yatim Dhuafa Indonesia,"2021-04-29 11:51:21",2000.0,settlement,gopay
+34326,Asti,Web Mobile,Infaq Sedekah,"2021-04-29 11:52:04",2000.0,settlement,gopay
+34327,Asti,Web Mobile,Berkah Dengan Sedekah,"2021-04-29 11:52:48",2000.0,settlement,gopay
+34328,Muhammad Iqbal Mubarak,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-29 11:53:25",100000.0,settlement,MANDIRI
+34329,Asti,Web Mobile,"Yuk Sedekah Jum’at, Berbagi Makan dengan Para Tamu Allah","2021-04-29 11:53:37",2000.0,settlement,gopay
+34330,Asti,Web Mobile,Lunasi Hutang Puasa dengan Membayar Fidyah,"2021-04-29 11:54:33",2000.0,settlement,gopay
+34331,Asti,Web Mobile,Nazar,"2021-04-29 11:55:16",2000.0,settlement,gopay
+34332,Asti,Web Mobile,Zakat Profesi,"2021-04-29 11:56:03",2000.0,settlement,gopay
+34333,Asti,Web Mobile,Zakat Akhir Tahun,"2021-04-29 11:56:44",2000.0,settlement,gopay
+34334,Asti,Web Mobile,ZAKAT FITRAH DI MIZAN AMANAH,"2021-04-29 11:57:40",2000.0,settlement,gopay
+34335,Asti,Web Mobile,Zakat Perniagaan,"2021-04-29 11:58:33",2000.0,settlement,gopay
+34336,Asti,Web Mobile,Zakat Emas Perak dan Uang,"2021-04-29 11:59:32",2000.0,settlement,gopay
+34338,Hamba allah,Web Mobile,SEDEKAH BAJU LEBARAN UNTUK 2.000 ANAK YATIM,"2021-04-29 12:43:59",100000.0,settlement,MANDIRI
+34339,Hamba allah,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-29 12:48:54",50000.0,settlement,MANDIRI
+34340,Wildan Putra amri,Web Mobile,Zakat Profesi,"2021-04-29 12:49:36",110000.0,settlement,bank_transfer
+34341,Resta Agung Susilo,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-29 12:49:49",250000.0,settlement,bank_transfer
+34342,Rimadina,WEB,Berkah Dengan Sedekah,"2021-04-29 12:57:44",500000.0,settlement,BCA - 1393004952
+34343,Nadya denris,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-29 13:18:02",200000.0,settlement,BNI
+34344,Dewi Indrawati,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-29 13:57:01",100000.0,settlement,bank_transfer
+34346,Ria vinola Ivanisari,Web Mobile,Berkah Dengan Sedekah,"2021-04-29 15:19:32",200000.0,settlement,bank_transfer
+34347,nur aris herbandugo,WEB,Infaq Sedekah,"2021-04-29 16:39:57",300000.0,settlement,Mandiri - 1320505050519
+34348,Elva Novallia,WEB,Infaq Sedekah,"2021-04-29 16:42:21",350000.0,settlement,BCA - 1393004952
+34350,Alif Setyo Pambudi,Web Mobile,Mukena Untuk Santri Yatim di Pondok Pesantren,"2021-04-29 17:22:54",21000.0,settlement,MANDIRI
+34358,Yoga Ardy,Android,SAWAH UNTUK KEBUTUHAN MAKAN SANTRI YATIM PENGHAFAL ALQURAN,"2021-04-29 21:19:12",30000.0,settlement,bank_transfer
+34366,Gatot,Web Mobile,SEDEKAH BAJU LEBARAN UNTUK 2.000 ANAK YATIM,"2021-04-30 05:03:58",100000.0,settlement,bank_transfer
+34367,wiwit,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-04-30 05:05:13",200000.0,settlement,gopay
+34368,Muhamad Agung Kurniawan,Web Mobile,Berkah Dengan Sedekah,"2021-04-30 05:06:54",20000.0,settlement,gopay
+34369,Septania Putri Widyawardhani,Android,Bantu Mualaf Sulawesi Memiliki Masjid Untuk Mereka Beribadah,"2021-04-30 05:09:18",10000.0,settlement,gopay
+34370,Septania Putri Widyawardhani,Android,Berkah Dengan Sedekah,"2021-04-30 05:10:32",10000.0,settlement,gopay
+34371,Septania Putri Widyawardhani,Android,BANTU PENUHI SARANA PRASARANA SANTRI PENGHAFAL ALQURAN,"2021-04-30 05:12:46",10000.0,settlement,gopay
+34372,Septania Putri Widyawardhani,Android,Sedekah Bantu Lansia Dhuafa Jalani Sisa Hidup Yang Layak,"2021-04-30 05:14:22",5000.0,settlement,gopay
+34373,AS,Web Mobile,PANTI ASUHAN YATIM DAN DHUAFA KAHFI I,"2021-04-30 05:14:26",100000.0,settlement,gopay
+34375,Ibu Ari /JBB/Najumas/HS2/Koalum,Web Mobile,Infaq Sedekah,"2021-04-30 05:14:46",100000.0,settlement,bank_transfer
+34376,Septania Putri Widyawardhani,Android,Urgent! Balita Kanker Mata Perlu Pengobatan Segera,"2021-04-30 05:15:46",10000.0,settlement,gopay
+34377,Septania Putri Widyawardhani,Android,"Raffi Sakit Kelenjar Getah Bening, 2 Tahun Belum Berobat Optimal","2021-04-30 05:19:25",5000.0,settlement,gopay
+34379,Siti Nurzakiyah,Web,Berkah Dengan Sedekah,"2021-04-30 05:23:55",100000.0,settlement,MANDIRI
+34380,Muammar,Android,Berkah Dengan Sedekah,"2021-04-30 05:27:15",100000.0,settlement,bank_transfer
+34381,Sanggih saputri meiyani,Web Mobile,Nazar,"2021-04-30 05:29:22",20000.0,settlement,bank_transfer
+34382,hamba Allah,Android,Bantu Mualaf Sulawesi Memiliki Masjid Untuk Mereka Beribadah,"2021-04-30 05:57:58",10000.0,settlement,bank_transfer
+34383,Amin Yuliastanto,Android,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 06:02:53",20000.0,settlement,gopay
+34386,Dwi Febri Chandra Kusuma,Android,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-30 08:08:36",50000.0,settlement,bank_transfer
+34387,Oji,Android,PANTI ASUHAN YATIM DAN DHUAFA CIDODOL,"2021-04-30 08:25:19",350000.0,settlement,bank_transfer
+34388,Yuhana robina,WEB,Sodaqoh Anak Yatim,"2021-04-30 08:33:06",250000.0,settlement,BCA - 1393004952
+34391,Fitri Nur Andini,WEB,Sodaqoh Anak Yatim,"2021-04-30 08:56:14",200000.0,settlement,BCA - 1393004952
+34394,perdana kusuma,WEB,Infaq Sedekah,"2021-04-30 09:15:38",100000.0,settlement,Mandiri - 1320006531140
+34395,Mardaniayah,WEB,Infaq Sedekah,"2021-04-30 09:30:45",10000.0,settlement,BCA - 1393004952
+34396,Salim Husin,WEB,Sodaqoh Anak Yatim,"2021-04-30 09:35:37",1000000.0,settlement,BCA - 1393004952
+34397,Feizal Syahmenan,WEB,Infaq Sedekah,"2021-04-30 09:38:45",50000.0,settlement,Mandiri - 1320006531140
+34398,Anisa Dyah Shintadevi,WEB,Zakat,"2021-04-30 09:48:23",1000000.0,settlement,BCA - 1393040002
+34399,Farrah diba,WEB,Infaq Sedekah,"2021-04-30 09:51:51",2000000.0,settlement,Mandiri - 1640002651117
+34401,prima sari,Web Mobile,PARCEL LEBARAN UNTUK 10.000 ANAK YATIM DAN DHUAFA,"2021-04-30 10:05:45",200000.0,settlement,gopay
+34404,Zara,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-30 10:13:09",20000.0,settlement,bank_transfer
+34405,Hamba Allah,Web,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-30 10:28:01",100000.0,settlement,MANDIRI
+34407,Fifi wulansari,Web Mobile,Zakat Profesi,"2021-04-30 10:50:22",100000.0,settlement,bank_transfer
+34408,Tio,Web Mobile,THR Lebaran untuk 18.000 Yatim Dhuafa,"2021-04-30 10:56:20",57000.0,settlement,bank_transfer
+34409,Magfirah,WEB,Zakat Profesi,"2021-04-30 10:58:17",250000.0,settlement,BCA - 1393004952
+34410,Mahfud Rofi,WEB,Sodaqoh Anak Yatim,"2021-04-30 11:05:05",200000.0,settlement,Mandiri - 1320006531140
+34411,Rudy Adil Rangkuty,Web Mobile,Berkah Dengan Sedekah,"2021-04-30 11:10:53",100000.0,settlement,BNI
+34412,rifky fadila,WEB,Zakat,"2021-04-30 11:12:31",200000.0,settlement,Mandiri - 1320006531140
+34415,Yuni Fransiana,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 11:31:09",100000.0,settlement,bank_transfer
+34419,afif,Web,PANTI ASUHAN YATIM DAN DHUAFA YOGYAKARTA,"2021-04-30 12:38:53",1000000.0,settlement,MANDIRI
+34420,Hamba Allah,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 12:45:05",500000.0,settlement,MANDIRI
+34421,Afra rahmanida,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 12:53:05",50000.0,settlement,BNI
+34425,Renaldi Perdana Kesuma,Web,Berkah Dengan Sedekah,"2021-04-30 13:28:50",500000.0,settlement,bank_transfer
+34426,Laras,Android,ZAKAT FITRAH DI MIZAN AMANAH,"2021-04-30 13:36:19",100000.0,settlement,gopay
+34429,Laras,Android,Infaq Sedekah,"2021-04-30 13:40:54",50000.0,settlement,gopay
+34430,KEL.BPK MOHAMMAD RIDWAN,WEB,Infaq Sedekah,"2021-04-30 13:43:22",500000.0,settlement,BCA - 1393004952
+34431,Beny Hidayat,WEB,Infaq Sedekah,"2021-04-30 13:46:18",100000.0,settlement,BCA - 1393004952
+34432,hamba allah,Android,PANTI ASUHAN YATIM DAN DHUAFA CAKUNG,"2021-04-30 13:46:51",300000.0,settlement,bank_transfer
+34436,Bagas Ardiansyah,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 14:03:47",20000.0,settlement,bank_transfer
+34446,ARIF NURIYADI,WEB,Infaq Sedekah,"2021-04-30 14:37:51",360000.0,settlement,BCA - 1393004952
+34452,Bunda Nella & Nindy,WEB,Infaq Sedekah,"2021-04-30 14:58:27",250000.0,settlement,BCA - 1393004952
+34455,AHMAD MAKKI,Web,PANTI ASUHAN YATIM DAN DHUAFA MALANG,"2021-04-30 15:19:38",100000.0,settlement,bank_transfer
+34456,Aditya Christianto,Web Mobile,Bayar Zakat Fitrah Online Untuk Kaum Dhuafa,"2021-04-30 15:20:19",50000.0,settlement,bank_transfer
+34457,Irvan Firmansyah,Web Mobile,Zakat Profesi,"2021-04-30 15:30:27",150000.0,settlement,bank_transfer
+34459,Yeni Susanti,WEB,Infaq Sedekah,"2021-04-30 15:41:00",100000.0,settlement,BCA - 1393004952
+34460,Fatimah,WEB,Infaq Sedekah,"2021-04-30 15:44:37",200000.0,settlement,BCA - 1393004952
+34465,Dian Oktasa,Web,Berkah Dengan Sedekah,"2021-04-30 16:01:49",100000.0,settlement,BNI
+34466,Hamba Allah,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 16:16:07",60000.0,settlement,bank_transfer
+34469,Ali Mulyana,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-30 17:32:57",1500000.0,settlement,BNI
+34470,Risma safitri,Web Mobile,"10.000 Paket Buka Puasa utk Yatim Dhuafa Indonesia","2021-04-30 17:33:27",20000.0,settlement,bank_transfer
+34471,uKi,Android,Berkah Dengan Sedekah,"2021-04-30 18:18:42",100000.0,settlement,BNI
+34477,Puti N,Web Mobile,Zakat Profesi,"2021-04-30 19:02:26",2500000.0,settlement,PERMATA
+34479,Zafar Momin,Web,"10.000 Paket Berbuka Puasa untuk Anak Yatim","2021-04-30 19:09:54",5000000.0,settlement,credit_card
+34480,Rico,Web Mobile,Zakat Profesi,"2021-04-30 19:40:14",111200.0,settlement,bank_transfer
+34484,Ruhendi Tirta Kusumah,Android,PANTI ASUHAN YATIM DAN DHUAFA CITEUREUP CIMAHI,"2021-04-30 23:53:33",150000.0,settlement,MANDIRI
